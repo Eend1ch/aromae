@@ -8,11 +8,15 @@ Built as a personal project in **2025**.
 > A step-by-step refactor is planned and will land as separate commits, so the history shows the before and after.
 
 ## Screenshots
+### Catalog
+![Catalog](screenshots/catalog.jpg)
 
-<!-- Put screenshots into a /screenshots folder and uncomment: -->
-<!-- ![Catalog](screenshots/catalog.png) -->
-<!-- ![Perfume page](screenshots/perfume.png) -->
+### Perfume page
+![Perfume page](screenshots/product-page.jpg)
 
+### Notes and gallery
+![Tobacco Vanille](screenshots/notes-tobacco-vanille.jpg)
+![Megamare](screenshots/notes-megamare.jpg)
 ## Features
 
 - **Catalog** of perfumes with product cards
