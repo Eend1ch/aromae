@@ -1,0 +1,469 @@
+2025-05-13 01:14:01,192 - Завантажено існуючий data.json із 0 записами
+2025-05-13 01:14:01,194 - Обробка URL: https://www.brocard.ua/ua/product/parfumovana-voda-tom-ford-tabacco-vanille-30-ml-001787?q=tobacco%20vanille
+2025-05-13 01:14:01,195 - Парсинг Brocard: https://www.brocard.ua/ua/product/parfumovana-voda-tom-ford-tabacco-vanille-30-ml-001787?q=tobacco%20vanille
+2025-05-13 01:14:01,195 - Обробка URL: https://www.brocard.ua/ua/product/parfum-giorgio-armani-stronger-with-you-absolutely-50-ml-137420
+2025-05-13 01:14:01,195 - Парсинг Brocard: https://www.brocard.ua/ua/product/parfum-giorgio-armani-stronger-with-you-absolutely-50-ml-137420
+2025-05-13 01:14:01,195 - Обробка URL: https://www.brocard.ua/ua/product/parfumovana-voda-giorgio-armani-stronger-with-you-intensely-30-ml-068434?gad_source=1&gclid=CjwKCAjw8IfABhBXEiwAxRHlsPkysiVE_2astyXjrAeaPlB6-5X18z0rVBt1KG8ZHphl9Ycgw2J7xRoCG-EQAvD_BwE
+2025-05-13 01:14:01,196 - Парсинг Brocard: https://www.brocard.ua/ua/product/parfumovana-voda-giorgio-armani-stronger-with-you-intensely-30-ml-068434?gad_source=1&gclid=CjwKCAjw8IfABhBXEiwAxRHlsPkysiVE_2astyXjrAeaPlB6-5X18z0rVBt1KG8ZHphl9Ycgw2J7xRoCG-EQAvD_BwE
+2025-05-13 01:14:01,196 - Обробка URL: https://www.brocard.ua/ua/product/eliksir-armani-acqua-di-gio-50-ml-188759?gad_source=1&gad_campaignid=22504884958&gbraid=0AAAAADF0uBKOcmEj31cYj9u3Xzu1oRn9w&gclid=CjwKCAjwz_bABhAGEiwAm-P8YZPxtklpZL5sB6wCMaJMSlnWZ3_W_I7SyPhVBXpw8ix2ihgigG94MBoCrwYQAvD_BwE
+2025-05-13 01:14:01,196 - Парсинг Brocard: https://www.brocard.ua/ua/product/eliksir-armani-acqua-di-gio-50-ml-188759?gad_source=1&gad_campaignid=22504884958&gbraid=0AAAAADF0uBKOcmEj31cYj9u3Xzu1oRn9w&gclid=CjwKCAjwz_bABhAGEiwAm-P8YZPxtklpZL5sB6wCMaJMSlnWZ3_W_I7SyPhVBXpw8ix2ihgigG94MBoCrwYQAvD_BwE
+2025-05-13 01:14:01,196 - Обробка URL: https://www.notino.ua/armani/emporio-stronger-with-you-amber-parfumovana-voda-uniseks/p-16264803/
+2025-05-13 01:14:01,196 - Парсинг Notino: https://www.notino.ua/armani/emporio-stronger-with-you-amber-parfumovana-voda-uniseks/p-16264803/
+2025-05-13 01:14:01,196 - Обробка URL: https://www.notino.ua/armani/emporio-stronger-with-you-intensely-parfumovana-voda-dlja-cholovikiv/p-16286591/
+2025-05-13 01:14:01,197 - Парсинг Notino: https://www.notino.ua/armani/emporio-stronger-with-you-intensely-parfumovana-voda-dlja-cholovikiv/p-16286591/
+2025-05-13 01:14:01,197 - Обробка URL: https://www.notino.ua/armani/acqua-di-gio-elixir-parfumi-ekstrakt-dlja-cholovikiv/p-16289594/?gad_source=1&gad_campaignid=1618233551&gbraid=0AAAAADRCXFmFRCNPILI4b92yHyzAWdHO1&gclid=CjwKCAjwz_bABhAGEiwAm-P8Yck-4-2QHUYEaWaTQggfxPPe3behygx0l5hgFLM1Y7SSjzc3NGxcFRoCAQsQAvD_BwE
+2025-05-13 01:14:01,197 - Парсинг Notino: https://www.notino.ua/armani/acqua-di-gio-elixir-parfumi-ekstrakt-dlja-cholovikiv/p-16289594/?gad_source=1&gad_campaignid=1618233551&gbraid=0AAAAADRCXFmFRCNPILI4b92yHyzAWdHO1&gclid=CjwKCAjwz_bABhAGEiwAm-P8Yck-4-2QHUYEaWaTQggfxPPe3behygx0l5hgFLM1Y7SSjzc3NGxcFRoCAQsQAvD_BwE
+2025-05-13 01:14:01,197 - Обробка URL: https://www.notino.ua/armani/acqua-di-gio-tualetna-voda-z-mozhlivistju-povtornogo-napovnennja-dlja-cholovikiv/p-16231211/?gad_source=1&gad_campaignid=22291202830&gbraid=0AAAAADRCXFmpYMDUF9oijcKanoUq0dxFb&gclid=Cj0KCQjw8vvABhCcARIsAOCfwwqJ9QuNNAaABD04D_ils3pAkup4Y2P3oZimfR-A1Yd1HcTgmPbEBrMaAkViEALw_wcB
+2025-05-13 01:14:01,197 - Парсинг Notino: https://www.notino.ua/armani/acqua-di-gio-tualetna-voda-z-mozhlivistju-povtornogo-napovnennja-dlja-cholovikiv/p-16231211/?gad_source=1&gad_campaignid=22291202830&gbraid=0AAAAADRCXFmpYMDUF9oijcKanoUq0dxFb&gclid=Cj0KCQjw8vvABhCcARIsAOCfwwqJ9QuNNAaABD04D_ils3pAkup4Y2P3oZimfR-A1Yd1HcTgmPbEBrMaAkViEALw_wcB
+2025-05-13 01:14:01,198 - Обробка URL: https://www.brocard.ua/ua/product/tualetna-voda-armani-acqua-di-gio-50-ml-172188
+2025-05-13 01:14:01,198 - Парсинг Brocard: https://www.brocard.ua/ua/product/tualetna-voda-armani-acqua-di-gio-50-ml-172188
+2025-05-13 01:14:01,198 - Обробка URL: https://www.notino.ua/tom-ford/tobacco-vanille-parfumovana-voda-uniseks/p-16294216/
+2025-05-13 01:14:01,198 - Парсинг Notino: https://www.notino.ua/tom-ford/tobacco-vanille-parfumovana-voda-uniseks/p-16294216/
+2025-05-13 01:14:01,198 - Обробка URL: https://www.brocard.ua/ua/product/parfumovana-voda-tom-ford-lost-cherry-100-ml-067840
+2025-05-13 01:14:01,198 - Обробка URL: https://www.notino.ua/tom-ford/private-blend-lost-cherry-parfumovana-voda-uniseks/p-16293769/
+2025-05-13 01:14:01,198 - Обробка URL: https://www.brocard.ua/ua/product/parfumovana-voda-giorgio-armani-acqua-di-gio-profondo-75-ml-085406
+2025-05-13 01:14:01,198 - Обробка URL: https://www.notino.ua/armani/acqua-di-gio-profondo-parfumovana-voda-dlja-cholovikiv/p-16016202/
+2025-05-13 01:14:01,198 - Обробка URL: https://www.brocard.ua/ru/product/parfyumirovannaya-voda-carolina-herrera-good-girl-80-ml-134225?gad_source=1&gad_campaignid=21988025991&gbraid=0AAAAADF0uBIsBQ9emdRGiXpcBVtYBtzhe&gclid=CjwKCAjwuIbBBhBvEiwAsNypvR6I19XpCvRT9Gb60dZXAY7RjAluw8BWTBw3G2JSLru1u8cdk5k1YhoC4TUQAvD_BwE
+2025-05-13 01:14:01,198 - Обробка URL: https://www.notino.ua/carolina-herrera/good-girl-parfumovana-voda-dlja-zhinok/p-16232983/
+2025-05-13 01:14:01,198 - Обробка URL: https://www.brocard.ua/ua/product/parfumovana-voda-creed-aventus-50-ml-114599?q=creed%20aventus
+2025-05-13 01:14:01,199 - Обробка URL: https://www.brocard.ua/ua/product/parfumovana-voda-dior-homme-intense-100-ml-001372?gad_source=1&gad_campaignid=21998323564&gbraid=0AAAAADF0uBL981Qg4WYa96emoZsnEp4Hh&gclid=CjwKCAjwuIbBBhBvEiwAsNypvdVEDNI8gzuzKsmNkFWLJNgdh5tHnW0ARlrNebWUfOEcxcyF_SxzCRoCUOUQAvD_BwE
+2025-05-13 01:14:01,199 - Обробка URL: https://www.notino.ua/dior/dior-homme-intense-2011-parfumovana-voda-dlja-cholovikiv/p-64456/?gad_source=1&gad_campaignid=22291202830&gbraid=0AAAAADRCXFmvWixHHjtD1DqAIJEykYtAI&gclid=CjwKCAjwuIbBBhBvEiwAsNypveJsEDn3xgVqr5I7BMA0Cg7W7EJGJfWBn_krr2BiGniKoWkcwvxVAhoCJ4QQAvD_BwE
+2025-05-13 01:14:01,199 - Обробка URL: https://www.brocard.ua/ua/product/tualetna-voda-dsquared2-red-wood-50-ml-086017?q=red%20wood%20dsquared
+2025-05-13 01:14:01,199 - Обробка URL: https://www.notino.ua/dsquared2/red-wood-tualetna-voda-dlja-zhinok/p-16056766/
+2025-05-13 01:14:01,199 - Обробка URL: https://www.brocard.ua/ua/product/parfumovana-voda-armani-acqua-di-gio-profondo-100-ml-172769
+2025-05-13 01:14:01,199 - Обробка URL: https://www.notino.ua/armani/acqua-di-gio-profondo-parfum-parfumi-dlja-cholovikiv/p-16233729/
+2025-05-13 01:14:01,199 - Обробка URL: https://www.brocard.ua/ua/product/parfumovana-voda-giorgio-armani-because-it-s-you-100-ml-001050
+2025-05-13 01:14:01,199 - Обробка URL: https://www.notino.ua/armani/emporio-because-its-you-parfumovana-voda-dlja-zhinok/p-652813/
+2025-05-13 01:14:01,199 - Обробка URL: https://www.brocard.ua/ua/product/tualetna-voda-giorgio-armani-stronger-with-you-only-100-ml-147348
+2025-05-13 01:14:01,199 - Обробка URL: https://www.notino.ua/armani/emporio-stronger-with-you-only-tualetna-voda-dlja-cholovikiv/p-16112475/
+2025-05-13 01:14:01,199 - Обробка URL: https://www.brocard.ua/ua/product/parfumi-armani-emporio-armani-stronger-with-you-50-ml-187509?q=stronger%20with%20you%20parfum
+2025-05-13 01:14:01,199 - Обробка URL: https://www.notino.ua/armani/emporio-stronger-with-you-parfum-parfumi-dlja-cholovikiv/p-16286107/
+2025-05-13 01:14:01,199 - Обробка URL: https://www.brocard.ua/ua/product/tualetna-voda-givenchy-gentleman-60-ml-145913?gad_source=1&gad_campaignid=21988139655&gbraid=0AAAAADF0uBJOzLej4OXU3FPXJ3rhgrC3O&gclid=CjwKCAjwuIbBBhBvEiwAsNypvbvZz08QaX2x4HudjjmMZElfhp12TaqwAkQPwaHZ-IaxOK4-RPyzeRoCD5MQAvD_BwE
+2025-05-13 01:14:01,199 - Обробка URL: https://www.notino.ua/givenchy/gentleman-givenchy-2017-tualetna-voda-dlja-cholovikiv/p-16135027/
+2025-05-13 01:14:01,199 - Обробка URL: https://www.brocard.ua/ua/product/parfumovana-voda-lancome-la-vie-est-belle-30-ml-001484
+2025-05-13 01:14:01,199 - Обробка URL: https://www.notino.ua/lancome/la-vie-est-belle-parfumovana-voda-dlja-zhinok/p-83697/
+2025-05-13 01:14:01,199 - Обробка URL: https://www.brocard.ua/ru/product/parfyumirovannaya-voda-tom-ford-black-orchid-150-ml-001062?q=tom%20ford%20black
+2025-05-13 01:14:01,199 - Обробка URL: https://www.notino.ua/tom-ford/black-orchid-parfumovana-voda-dlja-zhinok/p-81443/
+2025-05-13 01:14:01,199 - Обробка URL: https://www.brocard.ua/ua/product/parfumovana-voda-tom-ford-ombre-leather-150-ml-153555?q=ombre%20leather
+2025-05-13 01:14:01,200 - Обробка URL: https://www.notino.ua/tom-ford/ombre-leather-parfumovana-voda-dlja-cholovikiv/p-15952679/
+2025-05-13 01:14:01,200 - Обробка URL: https://www.brocard.ua/ua/product/parfumovana-voda-yves-saint-laurent-libre-50-ml-081744?gad_source=1&gad_campaignid=22414689983&gbraid=0AAAAADF0uBIjvEqjKHF-eoHAG36NadziY&gclid=CjwKCAjwuIbBBhBvEiwAsNypvRbphM4NE0SO5cdjPUgaXD6cmJk4Puxjg3WKEIjo9abLclwmc-yFOhoCtn8QAvD_BwE
+2025-05-13 01:14:01,200 - Обробка URL: https://www.notino.ua/yves-saint-laurent/libre-libre-parfumovana-voda-dlja-zhinok/p-15968532/
+2025-05-13 01:14:01,200 - Обробка URL: https://www.brocard.ua/ua/product/parfumovana-voda-yves-saint-laurent-y-100-ml-068432
+2025-05-13 01:14:01,200 - Обробка URL: https://www.notino.ua/yves-saint-laurent/y-parfumovana-voda-dlja-cholovikiv/p-15775663/
+2025-05-13 01:14:02,440 - Помилка при парсингу Brocard https://www.brocard.ua/ua/product/eliksir-armani-acqua-di-gio-50-ml-188759?gad_source=1&gad_campaignid=22504884958&gbraid=0AAAAADF0uBKOcmEj31cYj9u3Xzu1oRn9w&gclid=CjwKCAjwz_bABhAGEiwAm-P8YZPxtklpZL5sB6wCMaJMSlnWZ3_W_I7SyPhVBXpw8ix2ihgigG94MBoCrwYQAvD_BwE: Couldn't find a tree builder with the features you requested: htmlr3d. Do you need to install a parser library?
+2025-05-13 01:14:02,441 - Парсинг Brocard: https://www.brocard.ua/ua/product/parfumovana-voda-tom-ford-lost-cherry-100-ml-067840
+2025-05-13 01:14:02,446 - Помилка при парсингу Brocard https://www.brocard.ua/ua/product/parfum-giorgio-armani-stronger-with-you-absolutely-50-ml-137420: Couldn't find a tree builder with the features you requested: htmlr3d. Do you need to install a parser library?
+2025-05-13 01:14:02,446 - Парсинг Notino: https://www.notino.ua/tom-ford/private-blend-lost-cherry-parfumovana-voda-uniseks/p-16293769/
+2025-05-13 01:14:02,448 - Помилка при парсингу Brocard https://www.brocard.ua/ua/product/tualetna-voda-armani-acqua-di-gio-50-ml-172188: Couldn't find a tree builder with the features you requested: htmlr3d. Do you need to install a parser library?
+2025-05-13 01:14:02,449 - Парсинг Brocard: https://www.brocard.ua/ua/product/parfumovana-voda-giorgio-armani-acqua-di-gio-profondo-75-ml-085406
+2025-05-13 01:14:02,452 - Помилка при парсингу Brocard https://www.brocard.ua/ua/product/parfumovana-voda-giorgio-armani-stronger-with-you-intensely-30-ml-068434?gad_source=1&gclid=CjwKCAjw8IfABhBXEiwAxRHlsPkysiVE_2astyXjrAeaPlB6-5X18z0rVBt1KG8ZHphl9Ycgw2J7xRoCG-EQAvD_BwE: Couldn't find a tree builder with the features you requested: htmlr3d. Do you need to install a parser library?
+2025-05-13 01:14:02,453 - Парсинг Notino: https://www.notino.ua/armani/acqua-di-gio-profondo-parfumovana-voda-dlja-cholovikiv/p-16016202/
+2025-05-13 01:14:02,455 - Помилка при парсингу Brocard https://www.brocard.ua/ua/product/parfumovana-voda-tom-ford-tabacco-vanille-30-ml-001787?q=tobacco%20vanille: Couldn't find a tree builder with the features you requested: htmlr3d. Do you need to install a parser library?
+2025-05-13 01:14:02,456 - Парсинг Brocard: https://www.brocard.ua/ru/product/parfyumirovannaya-voda-carolina-herrera-good-girl-80-ml-134225?gad_source=1&gad_campaignid=21988025991&gbraid=0AAAAADF0uBIsBQ9emdRGiXpcBVtYBtzhe&gclid=CjwKCAjwuIbBBhBvEiwAsNypvR6I19XpCvRT9Gb60dZXAY7RjAluw8BWTBw3G2JSLru1u8cdk5k1YhoC4TUQAvD_BwE
+2025-05-13 01:14:03,653 - Помилка при парсингу Brocard https://www.brocard.ua/ua/product/parfumovana-voda-tom-ford-lost-cherry-100-ml-067840: Couldn't find a tree builder with the features you requested: htmlr3d. Do you need to install a parser library?
+2025-05-13 01:14:03,654 - Парсинг Notino: https://www.notino.ua/carolina-herrera/good-girl-parfumovana-voda-dlja-zhinok/p-16232983/
+2025-05-13 01:14:03,672 - Помилка при парсингу Brocard https://www.brocard.ua/ru/product/parfyumirovannaya-voda-carolina-herrera-good-girl-80-ml-134225?gad_source=1&gad_campaignid=21988025991&gbraid=0AAAAADF0uBIsBQ9emdRGiXpcBVtYBtzhe&gclid=CjwKCAjwuIbBBhBvEiwAsNypvR6I19XpCvRT9Gb60dZXAY7RjAluw8BWTBw3G2JSLru1u8cdk5k1YhoC4TUQAvD_BwE: Couldn't find a tree builder with the features you requested: htmlr3d. Do you need to install a parser library?
+2025-05-13 01:14:03,672 - Парсинг Brocard: https://www.brocard.ua/ua/product/parfumovana-voda-creed-aventus-50-ml-114599?q=creed%20aventus
+2025-05-13 01:14:03,684 - Помилка при парсингу Brocard https://www.brocard.ua/ua/product/parfumovana-voda-giorgio-armani-acqua-di-gio-profondo-75-ml-085406: Couldn't find a tree builder with the features you requested: htmlr3d. Do you need to install a parser library?
+2025-05-13 01:14:03,685 - Парсинг Brocard: https://www.brocard.ua/ua/product/parfumovana-voda-dior-homme-intense-100-ml-001372?gad_source=1&gad_campaignid=21998323564&gbraid=0AAAAADF0uBL981Qg4WYa96emoZsnEp4Hh&gclid=CjwKCAjwuIbBBhBvEiwAsNypvdVEDNI8gzuzKsmNkFWLJNgdh5tHnW0ARlrNebWUfOEcxcyF_SxzCRoCUOUQAvD_BwE
+2025-05-13 01:14:04,894 - Помилка при парсингу Brocard https://www.brocard.ua/ua/product/parfumovana-voda-creed-aventus-50-ml-114599?q=creed%20aventus: Couldn't find a tree builder with the features you requested: htmlr3d. Do you need to install a parser library?
+2025-05-13 01:14:04,895 - Парсинг Notino: https://www.notino.ua/dior/dior-homme-intense-2011-parfumovana-voda-dlja-cholovikiv/p-64456/?gad_source=1&gad_campaignid=22291202830&gbraid=0AAAAADRCXFmvWixHHjtD1DqAIJEykYtAI&gclid=CjwKCAjwuIbBBhBvEiwAsNypveJsEDn3xgVqr5I7BMA0Cg7W7EJGJfWBn_krr2BiGniKoWkcwvxVAhoCJ4QQAvD_BwE
+2025-05-13 01:14:04,897 - Помилка при парсингу Brocard https://www.brocard.ua/ua/product/parfumovana-voda-dior-homme-intense-100-ml-001372?gad_source=1&gad_campaignid=21998323564&gbraid=0AAAAADF0uBL981Qg4WYa96emoZsnEp4Hh&gclid=CjwKCAjwuIbBBhBvEiwAsNypvdVEDNI8gzuzKsmNkFWLJNgdh5tHnW0ARlrNebWUfOEcxcyF_SxzCRoCUOUQAvD_BwE: Couldn't find a tree builder with the features you requested: htmlr3d. Do you need to install a parser library?
+2025-05-13 01:14:04,898 - Парсинг Brocard: https://www.brocard.ua/ua/product/tualetna-voda-dsquared2-red-wood-50-ml-086017?q=red%20wood%20dsquared
+2025-05-13 01:14:06,134 - Помилка при парсингу Brocard https://www.brocard.ua/ua/product/tualetna-voda-dsquared2-red-wood-50-ml-086017?q=red%20wood%20dsquared: Couldn't find a tree builder with the features you requested: htmlr3d. Do you need to install a parser library?
+2025-05-13 01:14:06,135 - Парсинг Notino: https://www.notino.ua/dsquared2/red-wood-tualetna-voda-dlja-zhinok/p-16056766/
+2025-05-13 01:14:11,912 - Помилка завантаження сторінки Notino https://www.notino.ua/armani/emporio-stronger-with-you-intensely-parfumovana-voda-dlja-cholovikiv/p-16286591/: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2025-05-13 01:14:12,225 - Помилка завантаження сторінки Notino https://www.notino.ua/armani/acqua-di-gio-tualetna-voda-z-mozhlivistju-povtornogo-napovnennja-dlja-cholovikiv/p-16231211/?gad_source=1&gad_campaignid=22291202830&gbraid=0AAAAADRCXFmpYMDUF9oijcKanoUq0dxFb&gclid=Cj0KCQjw8vvABhCcARIsAOCfwwqJ9QuNNAaABD04D_ils3pAkup4Y2P3oZimfR-A1Yd1HcTgmPbEBrMaAkViEALw_wcB: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2025-05-13 01:14:12,282 - Помилка завантаження сторінки Notino https://www.notino.ua/tom-ford/tobacco-vanille-parfumovana-voda-uniseks/p-16294216/: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2025-05-13 01:14:12,295 - Помилка завантаження сторінки Notino https://www.notino.ua/armani/emporio-stronger-with-you-amber-parfumovana-voda-uniseks/p-16264803/: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2025-05-13 01:14:12,350 - Помилка завантаження сторінки Notino https://www.notino.ua/armani/acqua-di-gio-elixir-parfumi-ekstrakt-dlja-cholovikiv/p-16289594/?gad_source=1&gad_campaignid=1618233551&gbraid=0AAAAADRCXFmFRCNPILI4b92yHyzAWdHO1&gclid=CjwKCAjwz_bABhAGEiwAm-P8Yck-4-2QHUYEaWaTQggfxPPe3behygx0l5hgFLM1Y7SSjzc3NGxcFRoCAQsQAvD_BwE: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2025-05-13 01:14:14,203 - Помилка завантаження сторінки Notino https://www.notino.ua/armani/acqua-di-gio-profondo-parfumovana-voda-dlja-cholovikiv/p-16016202/: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2025-05-13 01:14:16,800 - Парсинг Brocard: https://www.brocard.ua/ua/product/parfumovana-voda-armani-acqua-di-gio-profondo-100-ml-172769
+2025-05-13 01:14:18,030 - Помилка при парсингу Brocard https://www.brocard.ua/ua/product/parfumovana-voda-armani-acqua-di-gio-profondo-100-ml-172769: Couldn't find a tree builder with the features you requested: htmlr3d. Do you need to install a parser library?
+2025-05-13 01:14:18,031 - Парсинг Notino: https://www.notino.ua/armani/acqua-di-gio-profondo-parfum-parfumi-dlja-cholovikiv/p-16233729/
+2025-05-13 01:14:18,367 - Помилка завантаження сторінки Notino https://www.notino.ua/tom-ford/private-blend-lost-cherry-parfumovana-voda-uniseks/p-16293769/: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2025-05-13 01:14:18,505 - Помилка завантаження сторінки Notino https://www.notino.ua/carolina-herrera/good-girl-parfumovana-voda-dlja-zhinok/p-16232983/: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2025-05-13 01:14:18,555 - Помилка завантаження сторінки Notino https://www.notino.ua/dsquared2/red-wood-tualetna-voda-dlja-zhinok/p-16056766/: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2025-05-13 01:14:18,704 - Помилка завантаження сторінки Notino https://www.notino.ua/dior/dior-homme-intense-2011-parfumovana-voda-dlja-cholovikiv/p-64456/?gad_source=1&gad_campaignid=22291202830&gbraid=0AAAAADRCXFmvWixHHjtD1DqAIJEykYtAI&gclid=CjwKCAjwuIbBBhBvEiwAsNypveJsEDn3xgVqr5I7BMA0Cg7W7EJGJfWBn_krr2BiGniKoWkcwvxVAhoCJ4QQAvD_BwE: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2025-05-13 01:14:20,711 - Парсинг Brocard: https://www.brocard.ua/ua/product/parfumovana-voda-giorgio-armani-because-it-s-you-100-ml-001050
+2025-05-13 01:14:20,727 - Парсинг Notino: https://www.notino.ua/armani/emporio-because-its-you-parfumovana-voda-dlja-zhinok/p-652813/
+2025-05-13 01:14:20,957 - Парсинг Brocard: https://www.brocard.ua/ua/product/tualetna-voda-giorgio-armani-stronger-with-you-only-100-ml-147348
+2025-05-13 01:14:21,003 - Парсинг Notino: https://www.notino.ua/armani/emporio-stronger-with-you-only-tualetna-voda-dlja-cholovikiv/p-16112475/
+2025-05-13 01:14:21,003 - Парсинг Brocard: https://www.brocard.ua/ua/product/parfumi-armani-emporio-armani-stronger-with-you-50-ml-187509?q=stronger%20with%20you%20parfum
+2025-05-13 01:14:21,018 - Парсинг Notino: https://www.notino.ua/armani/emporio-stronger-with-you-parfum-parfumi-dlja-cholovikiv/p-16286107/
+2025-05-13 01:14:21,033 - Парсинг Brocard: https://www.brocard.ua/ua/product/tualetna-voda-givenchy-gentleman-60-ml-145913?gad_source=1&gad_campaignid=21988139655&gbraid=0AAAAADF0uBJOzLej4OXU3FPXJ3rhgrC3O&gclid=CjwKCAjwuIbBBhBvEiwAsNypvbvZz08QaX2x4HudjjmMZElfhp12TaqwAkQPwaHZ-IaxOK4-RPyzeRoCD5MQAvD_BwE
+2025-05-13 01:14:21,933 - Помилка при парсингу Brocard https://www.brocard.ua/ua/product/parfumovana-voda-giorgio-armani-because-it-s-you-100-ml-001050: Couldn't find a tree builder with the features you requested: htmlr3d. Do you need to install a parser library?
+2025-05-13 01:14:21,934 - Парсинг Notino: https://www.notino.ua/givenchy/gentleman-givenchy-2017-tualetna-voda-dlja-cholovikiv/p-16135027/
+2025-05-13 01:14:22,189 - Помилка при парсингу Brocard https://www.brocard.ua/ua/product/tualetna-voda-giorgio-armani-stronger-with-you-only-100-ml-147348: Couldn't find a tree builder with the features you requested: htmlr3d. Do you need to install a parser library?
+2025-05-13 01:14:22,190 - Парсинг Brocard: https://www.brocard.ua/ua/product/parfumovana-voda-lancome-la-vie-est-belle-30-ml-001484
+2025-05-13 01:14:22,217 - Помилка при парсингу Brocard https://www.brocard.ua/ua/product/parfumi-armani-emporio-armani-stronger-with-you-50-ml-187509?q=stronger%20with%20you%20parfum: Couldn't find a tree builder with the features you requested: htmlr3d. Do you need to install a parser library?
+2025-05-13 01:14:22,218 - Парсинг Notino: https://www.notino.ua/lancome/la-vie-est-belle-parfumovana-voda-dlja-zhinok/p-83697/
+2025-05-13 01:14:22,240 - Помилка при парсингу Brocard https://www.brocard.ua/ua/product/tualetna-voda-givenchy-gentleman-60-ml-145913?gad_source=1&gad_campaignid=21988139655&gbraid=0AAAAADF0uBJOzLej4OXU3FPXJ3rhgrC3O&gclid=CjwKCAjwuIbBBhBvEiwAsNypvbvZz08QaX2x4HudjjmMZElfhp12TaqwAkQPwaHZ-IaxOK4-RPyzeRoCD5MQAvD_BwE: Couldn't find a tree builder with the features you requested: htmlr3d. Do you need to install a parser library?
+2025-05-13 01:14:22,240 - Парсинг Brocard: https://www.brocard.ua/ru/product/parfyumirovannaya-voda-tom-ford-black-orchid-150-ml-001062?q=tom%20ford%20black
+2025-05-13 01:14:22,477 - Парсинг Notino: https://www.notino.ua/tom-ford/black-orchid-parfumovana-voda-dlja-zhinok/p-81443/
+2025-05-13 01:14:22,539 - Парсинг Brocard: https://www.brocard.ua/ua/product/parfumovana-voda-tom-ford-ombre-leather-150-ml-153555?q=ombre%20leather
+2025-05-13 01:14:23,433 - Помилка при парсингу Brocard https://www.brocard.ua/ua/product/parfumovana-voda-lancome-la-vie-est-belle-30-ml-001484: Couldn't find a tree builder with the features you requested: htmlr3d. Do you need to install a parser library?
+2025-05-13 01:14:23,434 - Парсинг Notino: https://www.notino.ua/tom-ford/ombre-leather-parfumovana-voda-dlja-cholovikiv/p-15952679/
+2025-05-13 01:14:23,520 - Помилка при парсингу Brocard https://www.brocard.ua/ru/product/parfyumirovannaya-voda-tom-ford-black-orchid-150-ml-001062?q=tom%20ford%20black: Couldn't find a tree builder with the features you requested: htmlr3d. Do you need to install a parser library?
+2025-05-13 01:14:23,521 - Парсинг Brocard: https://www.brocard.ua/ua/product/parfumovana-voda-yves-saint-laurent-libre-50-ml-081744?gad_source=1&gad_campaignid=22414689983&gbraid=0AAAAADF0uBIjvEqjKHF-eoHAG36NadziY&gclid=CjwKCAjwuIbBBhBvEiwAsNypvRbphM4NE0SO5cdjPUgaXD6cmJk4Puxjg3WKEIjo9abLclwmc-yFOhoCtn8QAvD_BwE
+2025-05-13 01:14:23,739 - Помилка при парсингу Brocard https://www.brocard.ua/ua/product/parfumovana-voda-tom-ford-ombre-leather-150-ml-153555?q=ombre%20leather: Couldn't find a tree builder with the features you requested: htmlr3d. Do you need to install a parser library?
+2025-05-13 01:14:23,740 - Парсинг Notino: https://www.notino.ua/yves-saint-laurent/libre-libre-parfumovana-voda-dlja-zhinok/p-15968532/
+2025-05-13 01:14:24,636 - Помилка завантаження сторінки Notino https://www.notino.ua/armani/acqua-di-gio-profondo-parfum-parfumi-dlja-cholovikiv/p-16233729/: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2025-05-13 01:14:24,848 - Помилка при парсингу Brocard https://www.brocard.ua/ua/product/parfumovana-voda-yves-saint-laurent-libre-50-ml-081744?gad_source=1&gad_campaignid=22414689983&gbraid=0AAAAADF0uBIjvEqjKHF-eoHAG36NadziY&gclid=CjwKCAjwuIbBBhBvEiwAsNypvRbphM4NE0SO5cdjPUgaXD6cmJk4Puxjg3WKEIjo9abLclwmc-yFOhoCtn8QAvD_BwE: Couldn't find a tree builder with the features you requested: htmlr3d. Do you need to install a parser library?
+2025-05-13 01:14:24,848 - Парсинг Brocard: https://www.brocard.ua/ua/product/parfumovana-voda-yves-saint-laurent-y-100-ml-068432
+2025-05-13 01:14:26,103 - Помилка при парсингу Brocard https://www.brocard.ua/ua/product/parfumovana-voda-yves-saint-laurent-y-100-ml-068432: Couldn't find a tree builder with the features you requested: htmlr3d. Do you need to install a parser library?
+2025-05-13 01:14:26,103 - Парсинг Notino: https://www.notino.ua/yves-saint-laurent/y-parfumovana-voda-dlja-cholovikiv/p-15775663/
+2025-05-13 01:14:28,428 - Помилка завантаження сторінки Notino https://www.notino.ua/armani/emporio-because-its-you-parfumovana-voda-dlja-zhinok/p-652813/: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2025-05-13 01:14:28,523 - Помилка завантаження сторінки Notino https://www.notino.ua/armani/emporio-stronger-with-you-only-tualetna-voda-dlja-cholovikiv/p-16112475/: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2025-05-13 01:14:28,814 - Помилка завантаження сторінки Notino https://www.notino.ua/armani/emporio-stronger-with-you-parfum-parfumi-dlja-cholovikiv/p-16286107/: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2025-05-13 01:14:33,275 - Помилка завантаження сторінки Notino https://www.notino.ua/tom-ford/ombre-leather-parfumovana-voda-dlja-cholovikiv/p-15952679/: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2025-05-13 01:14:33,282 - Помилка завантаження сторінки Notino https://www.notino.ua/givenchy/gentleman-givenchy-2017-tualetna-voda-dlja-cholovikiv/p-16135027/: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2025-05-13 01:14:33,329 - Помилка завантаження сторінки Notino https://www.notino.ua/lancome/la-vie-est-belle-parfumovana-voda-dlja-zhinok/p-83697/: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2025-05-13 01:14:33,333 - Помилка завантаження сторінки Notino https://www.notino.ua/tom-ford/black-orchid-parfumovana-voda-dlja-zhinok/p-81443/: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2025-05-13 01:14:36,268 - Помилка завантаження сторінки Notino https://www.notino.ua/yves-saint-laurent/y-parfumovana-voda-dlja-cholovikiv/p-15775663/: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2025-05-13 01:14:36,553 - Помилка завантаження сторінки Notino https://www.notino.ua/yves-saint-laurent/libre-libre-parfumovana-voda-dlja-zhinok/p-15968532/: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2025-05-13 01:14:38,740 - data.json записано з 0 записами
+2025-05-13 01:21:35,797 - Завантажено data.json із 0 записами
+2025-05-13 01:21:35,799 - Обробка URL: https://www.brocard.ua/ua/product/parfumovana-voda-tom-ford-tabacco-vanille-30-ml-001787?q=tobacco%20vanille
+2025-05-13 01:21:35,800 - Парсинг Brocard: https://www.brocard.ua/ua/product/parfumovana-voda-tom-ford-tabacco-vanille-30-ml-001787?q=tobacco%20vanille
+2025-05-13 01:21:35,800 - Обробка URL: https://www.brocard.ua/ua/product/parfum-giorgio-armani-stronger-with-you-absolutely-50-ml-137420
+2025-05-13 01:21:35,800 - Парсинг Brocard: https://www.brocard.ua/ua/product/parfum-giorgio-armani-stronger-with-you-absolutely-50-ml-137420
+2025-05-13 01:21:35,800 - Обробка URL: https://www.brocard.ua/ua/product/parfumovana-voda-giorgio-armani-stronger-with-you-intensely-30-ml-068434?gad_source=1&gclid=CjwKCAjw8IfABhBXEiwAxRHlsPkysiVE_2astyXjrAeaPlB6-5X18z0rVBt1KG8ZHphl9Ycgw2J7xRoCG-EQAvD_BwE
+2025-05-13 01:21:35,800 - Парсинг Brocard: https://www.brocard.ua/ua/product/parfumovana-voda-giorgio-armani-stronger-with-you-intensely-30-ml-068434?gad_source=1&gclid=CjwKCAjw8IfABhBXEiwAxRHlsPkysiVE_2astyXjrAeaPlB6-5X18z0rVBt1KG8ZHphl9Ycgw2J7xRoCG-EQAvD_BwE
+2025-05-13 01:21:35,800 - Обробка URL: https://www.brocard.ua/ua/product/eliksir-armani-acqua-di-gio-50-ml-188759?gad_source=1&gad_campaignid=22504884958&gbraid=0AAAAADF0uBKOcmEj31cYj9u3Xzu1oRn9w&gclid=CjwKCAjwz_bABhAGEiwAm-P8YZPxtklpZL5sB6wCMaJMSlnWZ3_W_I7SyPhVBXpw8ix2ihgigG94MBoCrwYQAvD_BwE
+2025-05-13 01:21:35,801 - Парсинг Brocard: https://www.brocard.ua/ua/product/eliksir-armani-acqua-di-gio-50-ml-188759?gad_source=1&gad_campaignid=22504884958&gbraid=0AAAAADF0uBKOcmEj31cYj9u3Xzu1oRn9w&gclid=CjwKCAjwz_bABhAGEiwAm-P8YZPxtklpZL5sB6wCMaJMSlnWZ3_W_I7SyPhVBXpw8ix2ihgigG94MBoCrwYQAvD_BwE
+2025-05-13 01:21:35,801 - Обробка URL: https://www.notino.ua/armani/emporio-stronger-with-you-amber-parfumovana-voda-uniseks/p-16264803/
+2025-05-13 01:21:35,801 - Парсинг Notino: https://www.notino.ua/armani/emporio-stronger-with-you-amber-parfumovana-voda-uniseks/p-16264803/
+2025-05-13 01:21:35,801 - Обробка URL: https://www.notino.ua/armani/emporio-stronger-with-you-intensely-parfumovana-voda-dlja-cholovikiv/p-16286591/
+2025-05-13 01:21:35,801 - Обробка URL: https://www.notino.ua/armani/acqua-di-gio-elixir-parfumi-ekstrakt-dlja-cholovikiv/p-16289594/?gad_source=1&gad_campaignid=1618233551&gbraid=0AAAAADRCXFmFRCNPILI4b92yHyzAWdHO1&gclid=CjwKCAjwz_bABhAGEiwAm-P8Yck-4-2QHUYEaWaTQggfxPPe3behygx0l5hgFLM1Y7SSjzc3NGxcFRoCAQsQAvD_BwE
+2025-05-13 01:21:35,801 - Обробка URL: https://www.notino.ua/armani/acqua-di-gio-tualetna-voda-z-mozhlivistju-povtornogo-napovnennja-dlja-cholovikiv/p-16231211/?gad_source=1&gad_campaignid=22291202830&gbraid=0AAAAADRCXFmpYMDUF9oijcKanoUq0dxFb&gclid=Cj0KCQjw8vvABhCcARIsAOCfwwqJ9QuNNAaABD04D_ils3pAkup4Y2P3oZimfR-A1Yd1HcTgmPbEBrMaAkViEALw_wcB
+2025-05-13 01:21:35,801 - Обробка URL: https://www.brocard.ua/ua/product/tualetna-voda-armani-acqua-di-gio-50-ml-172188
+2025-05-13 01:21:35,801 - Обробка URL: https://www.notino.ua/tom-ford/tobacco-vanille-parfumovana-voda-uniseks/p-16294216/
+2025-05-13 01:21:35,802 - Обробка URL: https://www.brocard.ua/ua/product/parfumovana-voda-tom-ford-lost-cherry-100-ml-067840
+2025-05-13 01:21:35,802 - Обробка URL: https://www.notino.ua/tom-ford/private-blend-lost-cherry-parfumovana-voda-uniseks/p-16293769/
+2025-05-13 01:21:35,802 - Обробка URL: https://www.brocard.ua/ua/product/parfumovana-voda-giorgio-armani-acqua-di-gio-profondo-75-ml-085406
+2025-05-13 01:21:35,802 - Обробка URL: https://www.notino.ua/armani/acqua-di-gio-profondo-parfumovana-voda-dlja-cholovikiv/p-16016202/
+2025-05-13 01:21:35,802 - Обробка URL: https://www.brocard.ua/ru/product/parfyumirovannaya-voda-carolina-herrera-good-girl-80-ml-134225?gad_source=1&gad_campaignid=21988025991&gbraid=0AAAAADF0uBIsBQ9emdRGiXpcBVtYBtzhe&gclid=CjwKCAjwuIbBBhBvEiwAsNypvR6I19XpCvRT9Gb60dZXAY7RjAluw8BWTBw3G2JSLru1u8cdk5k1YhoC4TUQAvD_BwE
+2025-05-13 01:21:35,802 - Обробка URL: https://www.notino.ua/carolina-herrera/good-girl-parfumovana-voda-dlja-zhinok/p-16232983/
+2025-05-13 01:21:35,802 - Обробка URL: https://www.brocard.ua/ua/product/parfumovana-voda-creed-aventus-50-ml-114599?q=creed%20aventus
+2025-05-13 01:21:35,802 - Обробка URL: https://www.brocard.ua/ua/product/parfumovana-voda-dior-homme-intense-100-ml-001372?gad_source=1&gad_campaignid=21998323564&gbraid=0AAAAADF0uBL981Qg4WYa96emoZsnEp4Hh&gclid=CjwKCAjwuIbBBhBvEiwAsNypvdVEDNI8gzuzKsmNkFWLJNgdh5tHnW0ARlrNebWUfOEcxcyF_SxzCRoCUOUQAvD_BwE
+2025-05-13 01:21:35,802 - Обробка URL: https://www.notino.ua/dior/dior-homme-intense-2011-parfumovana-voda-dlja-cholovikiv/p-64456/?gad_source=1&gad_campaignid=22291202830&gbraid=0AAAAADRCXFmvWixHHjtD1DqAIJEykYtAI&gclid=CjwKCAjwuIbBBhBvEiwAsNypveJsEDn3xgVqr5I7BMA0Cg7W7EJGJfWBn_krr2BiGniKoWkcwvxVAhoCJ4QQAvD_BwE
+2025-05-13 01:21:35,802 - Обробка URL: https://www.brocard.ua/ua/product/tualetna-voda-dsquared2-red-wood-50-ml-086017?q=red%20wood%20dsquared
+2025-05-13 01:21:35,802 - Обробка URL: https://www.notino.ua/dsquared2/red-wood-tualetna-voda-dlja-zhinok/p-16056766/
+2025-05-13 01:21:35,802 - Обробка URL: https://www.brocard.ua/ua/product/parfumovana-voda-armani-acqua-di-gio-profondo-100-ml-172769
+2025-05-13 01:21:35,802 - Обробка URL: https://www.notino.ua/armani/acqua-di-gio-profondo-parfum-parfumi-dlja-cholovikiv/p-16233729/
+2025-05-13 01:21:35,802 - Обробка URL: https://www.brocard.ua/ua/product/parfumovana-voda-giorgio-armani-because-it-s-you-100-ml-001050
+2025-05-13 01:21:35,802 - Обробка URL: https://www.notino.ua/armani/emporio-because-its-you-parfumovana-voda-dlja-zhinok/p-652813/
+2025-05-13 01:21:35,802 - Обробка URL: https://www.brocard.ua/ua/product/tualetna-voda-giorgio-armani-stronger-with-you-only-100-ml-147348
+2025-05-13 01:21:35,802 - Обробка URL: https://www.notino.ua/armani/emporio-stronger-with-you-only-tualetna-voda-dlja-cholovikiv/p-16112475/
+2025-05-13 01:21:35,802 - Обробка URL: https://www.brocard.ua/ua/product/parfumi-armani-emporio-armani-stronger-with-you-50-ml-187509?q=stronger%20with%20you%20parfum
+2025-05-13 01:21:35,802 - Обробка URL: https://www.notino.ua/armani/emporio-stronger-with-you-parfum-parfumi-dlja-cholovikiv/p-16286107/
+2025-05-13 01:21:35,802 - Обробка URL: https://www.brocard.ua/ua/product/tualetna-voda-givenchy-gentleman-60-ml-145913?gad_source=1&gad_campaignid=21988139655&gbraid=0AAAAADF0uBJOzLej4OXU3FPXJ3rhgrC3O&gclid=CjwKCAjwuIbBBhBvEiwAsNypvbvZz08QaX2x4HudjjmMZElfhp12TaqwAkQPwaHZ-IaxOK4-RPyzeRoCD5MQAvD_BwE
+2025-05-13 01:21:35,803 - Обробка URL: https://www.notino.ua/givenchy/gentleman-givenchy-2017-tualetna-voda-dlja-cholovikiv/p-16135027/
+2025-05-13 01:21:35,803 - Обробка URL: https://www.brocard.ua/ua/product/parfumovana-voda-lancome-la-vie-est-belle-30-ml-001484
+2025-05-13 01:21:35,803 - Обробка URL: https://www.notino.ua/lancome/la-vie-est-belle-parfumovana-voda-dlja-zhinok/p-83697/
+2025-05-13 01:21:35,803 - Обробка URL: https://www.brocard.ua/ru/product/parfyumirovannaya-voda-tom-ford-black-orchid-150-ml-001062?q=tom%20ford%20black
+2025-05-13 01:21:35,803 - Обробка URL: https://www.notino.ua/tom-ford/black-orchid-parfumovana-voda-dlja-zhinok/p-81443/
+2025-05-13 01:21:35,803 - Обробка URL: https://www.brocard.ua/ua/product/parfumovana-voda-tom-ford-ombre-leather-150-ml-153555?q=ombre%20leather
+2025-05-13 01:21:35,803 - Обробка URL: https://www.notino.ua/tom-ford/ombre-leather-parfumovana-voda-dlja-cholovikiv/p-15952679/
+2025-05-13 01:21:35,803 - Обробка URL: https://www.brocard.ua/ua/product/parfumovana-voda-yves-saint-laurent-libre-50-ml-081744?gad_source=1&gad_campaignid=22414689983&gbraid=0AAAAADF0uBIjvEqjKHF-eoHAG36NadziY&gclid=CjwKCAjwuIbBBhBvEiwAsNypvRbphM4NE0SO5cdjPUgaXD6cmJk4Puxjg3WKEIjo9abLclwmc-yFOhoCtn8QAvD_BwE
+2025-05-13 01:21:35,803 - Обробка URL: https://www.notino.ua/yves-saint-laurent/libre-libre-parfumovana-voda-dlja-zhinok/p-15968532/
+2025-05-13 01:21:35,803 - Обробка URL: https://www.brocard.ua/ua/product/parfumovana-voda-yves-saint-laurent-y-100-ml-068432
+2025-05-13 01:21:35,803 - Обробка URL: https://www.notino.ua/yves-saint-laurent/y-parfumovana-voda-dlja-cholovikiv/p-15775663/
+2025-05-13 01:21:38,446 - Успішно спарсено Brocard https://www.brocard.ua/ua/product/eliksir-armani-acqua-di-gio-50-ml-188759?gad_source=1&gad_campaignid=22504884958&gbraid=0AAAAADF0uBKOcmEj31cYj9u3Xzu1oRn9w&gclid=CjwKCAjwz_bABhAGEiwAm-P8YZPxtklpZL5sB6wCMaJMSlnWZ3_W_I7SyPhVBXpw8ix2ihgigG94MBoCrwYQAvD_BwE: Acqua Di Gio
+2025-05-13 01:21:38,446 - Парсинг Notino: https://www.notino.ua/armani/emporio-stronger-with-you-intensely-parfumovana-voda-dlja-cholovikiv/p-16286591/
+2025-05-13 01:21:38,446 - Об'єднання даних для brocard-188759: сайт brocard
+2025-05-13 01:21:39,042 - Успішно спарсено Brocard https://www.brocard.ua/ua/product/parfum-giorgio-armani-stronger-with-you-absolutely-50-ml-137420: Stronger with You Absolutely
+2025-05-13 01:21:39,042 - Парсинг Notino: https://www.notino.ua/armani/acqua-di-gio-elixir-parfumi-ekstrakt-dlja-cholovikiv/p-16289594/?gad_source=1&gad_campaignid=1618233551&gbraid=0AAAAADRCXFmFRCNPILI4b92yHyzAWdHO1&gclid=CjwKCAjwz_bABhAGEiwAm-P8Yck-4-2QHUYEaWaTQggfxPPe3behygx0l5hgFLM1Y7SSjzc3NGxcFRoCAQsQAvD_BwE
+2025-05-13 01:21:39,042 - Об'єднання даних для brocard-137420: сайт brocard
+2025-05-13 01:21:39,139 - Успішно спарсено Brocard https://www.brocard.ua/ua/product/parfumovana-voda-tom-ford-tabacco-vanille-30-ml-001787?q=tobacco%20vanille: Private Blend Tobacco Vanille
+2025-05-13 01:21:39,140 - Парсинг Notino: https://www.notino.ua/armani/acqua-di-gio-tualetna-voda-z-mozhlivistju-povtornogo-napovnennja-dlja-cholovikiv/p-16231211/?gad_source=1&gad_campaignid=22291202830&gbraid=0AAAAADRCXFmpYMDUF9oijcKanoUq0dxFb&gclid=Cj0KCQjw8vvABhCcARIsAOCfwwqJ9QuNNAaABD04D_ils3pAkup4Y2P3oZimfR-A1Yd1HcTgmPbEBrMaAkViEALw_wcB
+2025-05-13 01:21:39,141 - Об'єднання даних для brocard-001787: сайт brocard
+2025-05-13 01:21:39,230 - Успішно спарсено Brocard https://www.brocard.ua/ua/product/parfumovana-voda-giorgio-armani-stronger-with-you-intensely-30-ml-068434?gad_source=1&gclid=CjwKCAjw8IfABhBXEiwAxRHlsPkysiVE_2astyXjrAeaPlB6-5X18z0rVBt1KG8ZHphl9Ycgw2J7xRoCG-EQAvD_BwE: Stronger With You Intensely
+2025-05-13 01:21:39,231 - Парсинг Brocard: https://www.brocard.ua/ua/product/tualetna-voda-armani-acqua-di-gio-50-ml-172188
+2025-05-13 01:21:39,231 - Об'єднання даних для brocard-068434: сайт brocard
+2025-05-13 01:21:42,704 - Успішно спарсено Brocard https://www.brocard.ua/ua/product/tualetna-voda-armani-acqua-di-gio-50-ml-172188: Acqua Di Gio
+2025-05-13 01:21:42,705 - Парсинг Notino: https://www.notino.ua/tom-ford/tobacco-vanille-parfumovana-voda-uniseks/p-16294216/
+2025-05-13 01:21:42,705 - Об'єднання даних для brocard-172188: сайт brocard
+2025-05-13 01:21:43,727 - Успішно спарсено Notino https://www.notino.ua/armani/emporio-stronger-with-you-amber-parfumovana-voda-uniseks/p-16264803/: Emporio Stronger With You Amber
+2025-05-13 01:21:43,728 - Парсинг Brocard: https://www.brocard.ua/ua/product/parfumovana-voda-tom-ford-lost-cherry-100-ml-067840
+2025-05-13 01:21:43,730 - Об'єднання даних для notino-16264803: сайт notino
+2025-05-13 01:21:47,015 - Успішно спарсено Brocard https://www.brocard.ua/ua/product/parfumovana-voda-tom-ford-lost-cherry-100-ml-067840: Private Blend Lost Cherry
+2025-05-13 01:21:47,016 - Парсинг Notino: https://www.notino.ua/tom-ford/private-blend-lost-cherry-parfumovana-voda-uniseks/p-16293769/
+2025-05-13 01:21:47,016 - Об'єднання даних для brocard-067840: сайт brocard
+2025-05-13 01:21:47,702 - Успішно спарсено Notino https://www.notino.ua/armani/acqua-di-gio-tualetna-voda-z-mozhlivistju-povtornogo-napovnennja-dlja-cholovikiv/p-16231211/?gad_source=1&gad_campaignid=22291202830&gbraid=0AAAAADRCXFmpYMDUF9oijcKanoUq0dxFb&gclid=Cj0KCQjw8vvABhCcARIsAOCfwwqJ9QuNNAaABD04D_ils3pAkup4Y2P3oZimfR-A1Yd1HcTgmPbEBrMaAkViEALw_wcB: Acqua di Gi\xf2
+2025-05-13 01:21:47,710 - Успішно спарсено Notino https://www.notino.ua/armani/emporio-stronger-with-you-intensely-parfumovana-voda-dlja-cholovikiv/p-16286591/: Emporio Stronger With You Intensely
+2025-05-13 01:21:47,710 - Парсинг Brocard: https://www.brocard.ua/ua/product/parfumovana-voda-giorgio-armani-acqua-di-gio-profondo-75-ml-085406
+2025-05-13 01:21:47,710 - Парсинг Notino: https://www.notino.ua/armani/acqua-di-gio-profondo-parfumovana-voda-dlja-cholovikiv/p-16016202/
+2025-05-13 01:21:47,710 - Об'єднання даних для notino-16231211: сайт notino
+2025-05-13 01:21:47,710 - Об'єднання даних для notino-16286591: сайт notino
+2025-05-13 01:21:47,799 - Успішно спарсено Notino https://www.notino.ua/armani/acqua-di-gio-elixir-parfumi-ekstrakt-dlja-cholovikiv/p-16289594/?gad_source=1&gad_campaignid=1618233551&gbraid=0AAAAADRCXFmFRCNPILI4b92yHyzAWdHO1&gclid=CjwKCAjwz_bABhAGEiwAm-P8Yck-4-2QHUYEaWaTQggfxPPe3behygx0l5hgFLM1Y7SSjzc3NGxcFRoCAQsQAvD_BwE: Acqua di Gi\xf2 Elixir
+2025-05-13 01:21:47,799 - Парсинг Brocard: https://www.brocard.ua/ru/product/parfyumirovannaya-voda-carolina-herrera-good-girl-80-ml-134225?gad_source=1&gad_campaignid=21988025991&gbraid=0AAAAADF0uBIsBQ9emdRGiXpcBVtYBtzhe&gclid=CjwKCAjwuIbBBhBvEiwAsNypvR6I19XpCvRT9Gb60dZXAY7RjAluw8BWTBw3G2JSLru1u8cdk5k1YhoC4TUQAvD_BwE
+2025-05-13 01:21:47,799 - Об'єднання даних для notino-16289594: сайт notino
+2025-05-13 01:21:50,032 - Продукт недоступний на Brocard https://www.brocard.ua/ua/product/parfumovana-voda-giorgio-armani-acqua-di-gio-profondo-75-ml-085406
+2025-05-13 01:21:50,033 - Парсинг Notino: https://www.notino.ua/carolina-herrera/good-girl-parfumovana-voda-dlja-zhinok/p-16232983/
+2025-05-13 01:21:50,033 - Об'єднання даних для brocard-085406: сайт brocard
+2025-05-13 01:21:50,170 - Не знайдено perfume_name для brocard_id brocard-134225
+2025-05-13 01:21:50,170 - Тимчасова назва для brocard-134225: perfume-134225
+2025-05-13 01:21:50,198 - Успішно спарсено Brocard https://www.brocard.ua/ru/product/parfyumirovannaya-voda-carolina-herrera-good-girl-80-ml-134225?gad_source=1&gad_campaignid=21988025991&gbraid=0AAAAADF0uBIsBQ9emdRGiXpcBVtYBtzhe&gclid=CjwKCAjwuIbBBhBvEiwAsNypvR6I19XpCvRT9Gb60dZXAY7RjAluw8BWTBw3G2JSLru1u8cdk5k1YhoC4TUQAvD_BwE: Good Girl
+2025-05-13 01:21:50,199 - Парсинг Brocard: https://www.brocard.ua/ua/product/parfumovana-voda-creed-aventus-50-ml-114599?q=creed%20aventus
+2025-05-13 01:21:50,199 - Об'єднання даних для brocard-134225: сайт brocard
+2025-05-13 01:21:51,720 - Успішно спарсено Notino https://www.notino.ua/tom-ford/tobacco-vanille-parfumovana-voda-uniseks/p-16294216/: Private Blend Tobacco Vanille
+2025-05-13 01:21:51,721 - Парсинг Brocard: https://www.brocard.ua/ua/product/parfumovana-voda-dior-homme-intense-100-ml-001372?gad_source=1&gad_campaignid=21998323564&gbraid=0AAAAADF0uBL981Qg4WYa96emoZsnEp4Hh&gclid=CjwKCAjwuIbBBhBvEiwAsNypvdVEDNI8gzuzKsmNkFWLJNgdh5tHnW0ARlrNebWUfOEcxcyF_SxzCRoCUOUQAvD_BwE
+2025-05-13 01:21:51,721 - Об'єднання даних для notino-16294216: сайт notino
+2025-05-13 01:21:52,527 - Продукт недоступний на Brocard https://www.brocard.ua/ua/product/parfumovana-voda-creed-aventus-50-ml-114599?q=creed%20aventus
+2025-05-13 01:21:52,527 - Парсинг Notino: https://www.notino.ua/dior/dior-homme-intense-2011-parfumovana-voda-dlja-cholovikiv/p-64456/?gad_source=1&gad_campaignid=22291202830&gbraid=0AAAAADRCXFmvWixHHjtD1DqAIJEykYtAI&gclid=CjwKCAjwuIbBBhBvEiwAsNypveJsEDn3xgVqr5I7BMA0Cg7W7EJGJfWBn_krr2BiGniKoWkcwvxVAhoCJ4QQAvD_BwE
+2025-05-13 01:21:52,528 - Об'єднання даних для brocard-114599: сайт brocard
+2025-05-13 01:21:54,031 - Не знайдено perfume_name для brocard_id brocard-001372
+2025-05-13 01:21:54,031 - Тимчасова назва для brocard-001372: perfume-001372
+2025-05-13 01:21:54,617 - Успішно спарсено Brocard https://www.brocard.ua/ua/product/parfumovana-voda-dior-homme-intense-100-ml-001372?gad_source=1&gad_campaignid=21998323564&gbraid=0AAAAADF0uBL981Qg4WYa96emoZsnEp4Hh&gclid=CjwKCAjwuIbBBhBvEiwAsNypvdVEDNI8gzuzKsmNkFWLJNgdh5tHnW0ARlrNebWUfOEcxcyF_SxzCRoCUOUQAvD_BwE: Homme Intense
+2025-05-13 01:21:54,618 - Парсинг Brocard: https://www.brocard.ua/ua/product/tualetna-voda-dsquared2-red-wood-50-ml-086017?q=red%20wood%20dsquared
+2025-05-13 01:21:54,618 - Об'єднання даних для brocard-001372: сайт brocard
+2025-05-13 01:21:55,296 - Успішно спарсено Notino https://www.notino.ua/tom-ford/private-blend-lost-cherry-parfumovana-voda-uniseks/p-16293769/: Private Blend Lost Cherry
+2025-05-13 01:21:55,297 - Парсинг Notino: https://www.notino.ua/dsquared2/red-wood-tualetna-voda-dlja-zhinok/p-16056766/
+2025-05-13 01:21:55,297 - Об'єднання даних для notino-16293769: сайт notino
+2025-05-13 01:21:55,893 - Успішно спарсено Notino https://www.notino.ua/armani/acqua-di-gio-profondo-parfumovana-voda-dlja-cholovikiv/p-16016202/: Acqua di Gi\xf2 Profondo
+2025-05-13 01:21:55,893 - Парсинг Brocard: https://www.brocard.ua/ua/product/parfumovana-voda-armani-acqua-di-gio-profondo-100-ml-172769
+2025-05-13 01:21:55,893 - Об'єднання даних для notino-16016202: сайт notino
+2025-05-13 01:21:58,088 - Успішно спарсено Brocard https://www.brocard.ua/ua/product/tualetna-voda-dsquared2-red-wood-50-ml-086017?q=red%20wood%20dsquared: Red Wood
+2025-05-13 01:21:58,088 - Парсинг Notino: https://www.notino.ua/armani/acqua-di-gio-profondo-parfum-parfumi-dlja-cholovikiv/p-16233729/
+2025-05-13 01:21:58,088 - Об'єднання даних для brocard-086017: сайт brocard
+2025-05-13 01:21:59,162 - Успішно спарсено Brocard https://www.brocard.ua/ua/product/parfumovana-voda-armani-acqua-di-gio-profondo-100-ml-172769: Acqua di Gio Profondo
+2025-05-13 01:21:59,162 - Парсинг Brocard: https://www.brocard.ua/ua/product/parfumovana-voda-giorgio-armani-because-it-s-you-100-ml-001050
+2025-05-13 01:21:59,162 - Об'єднання даних для brocard-172769: сайт brocard
+2025-05-13 01:21:59,842 - Успішно спарсено Notino https://www.notino.ua/carolina-herrera/good-girl-parfumovana-voda-dlja-zhinok/p-16232983/: Good Girl
+2025-05-13 01:21:59,842 - Парсинг Notino: https://www.notino.ua/armani/emporio-because-its-you-parfumovana-voda-dlja-zhinok/p-652813/
+2025-05-13 01:21:59,842 - Об'єднання даних для notino-16232983: сайт notino
+2025-05-13 01:22:00,853 - Не знайдено perfume_name для notino_id notino-64456
+2025-05-13 01:22:00,853 - Тимчасова назва для notino-64456: perfume-64456
+2025-05-13 01:22:00,866 - Успішно спарсено Notino https://www.notino.ua/dior/dior-homme-intense-2011-parfumovana-voda-dlja-cholovikiv/p-64456/?gad_source=1&gad_campaignid=22291202830&gbraid=0AAAAADRCXFmvWixHHjtD1DqAIJEykYtAI&gclid=CjwKCAjwuIbBBhBvEiwAsNypveJsEDn3xgVqr5I7BMA0Cg7W7EJGJfWBn_krr2BiGniKoWkcwvxVAhoCJ4QQAvD_BwE: Dior Homme Intense
+2025-05-13 01:22:00,867 - Парсинг Brocard: https://www.brocard.ua/ua/product/tualetna-voda-giorgio-armani-stronger-with-you-only-100-ml-147348
+2025-05-13 01:22:00,867 - Об'єднання даних для notino-64456: сайт notino
+2025-05-13 01:22:02,131 - Успішно спарсено Brocard https://www.brocard.ua/ua/product/parfumovana-voda-giorgio-armani-because-it-s-you-100-ml-001050: Because It's You
+2025-05-13 01:22:02,131 - Парсинг Notino: https://www.notino.ua/armani/emporio-stronger-with-you-only-tualetna-voda-dlja-cholovikiv/p-16112475/
+2025-05-13 01:22:02,131 - Об'єднання даних для brocard-001050: сайт brocard
+2025-05-13 01:22:03,174 - Продукт недоступний на Brocard https://www.brocard.ua/ua/product/tualetna-voda-giorgio-armani-stronger-with-you-only-100-ml-147348
+2025-05-13 01:22:03,175 - Парсинг Brocard: https://www.brocard.ua/ua/product/parfumi-armani-emporio-armani-stronger-with-you-50-ml-187509?q=stronger%20with%20you%20parfum
+2025-05-13 01:22:03,176 - Об'єднання даних для brocard-147348: сайт brocard
+2025-05-13 01:22:03,486 - Успішно спарсено Notino https://www.notino.ua/dsquared2/red-wood-tualetna-voda-dlja-zhinok/p-16056766/: Red Wood
+2025-05-13 01:22:03,486 - Парсинг Notino: https://www.notino.ua/armani/emporio-stronger-with-you-parfum-parfumi-dlja-cholovikiv/p-16286107/
+2025-05-13 01:22:03,486 - Об'єднання даних для notino-16056766: сайт notino
+2025-05-13 01:22:06,063 - Успішно спарсено Brocard https://www.brocard.ua/ua/product/parfumi-armani-emporio-armani-stronger-with-you-50-ml-187509?q=stronger%20with%20you%20parfum: Emporio Armani Stronger With You
+2025-05-13 01:22:06,064 - Парсинг Brocard: https://www.brocard.ua/ua/product/tualetna-voda-givenchy-gentleman-60-ml-145913?gad_source=1&gad_campaignid=21988139655&gbraid=0AAAAADF0uBJOzLej4OXU3FPXJ3rhgrC3O&gclid=CjwKCAjwuIbBBhBvEiwAsNypvbvZz08QaX2x4HudjjmMZElfhp12TaqwAkQPwaHZ-IaxOK4-RPyzeRoCD5MQAvD_BwE
+2025-05-13 01:22:06,064 - Об'єднання даних для brocard-187509: сайт brocard
+2025-05-13 01:22:06,786 - Успішно спарсено Notino https://www.notino.ua/armani/acqua-di-gio-profondo-parfum-parfumi-dlja-cholovikiv/p-16233729/: Acqua di Gi\xf2 Profondo Parfum
+2025-05-13 01:22:06,786 - Парсинг Notino: https://www.notino.ua/givenchy/gentleman-givenchy-2017-tualetna-voda-dlja-cholovikiv/p-16135027/
+2025-05-13 01:22:06,786 - Об'єднання даних для notino-16233729: сайт notino
+2025-05-13 01:22:07,814 - Успішно спарсено Notino https://www.notino.ua/armani/emporio-because-its-you-parfumovana-voda-dlja-zhinok/p-652813/: Emporio Because It's You
+2025-05-13 01:22:07,814 - Парсинг Brocard: https://www.brocard.ua/ua/product/parfumovana-voda-lancome-la-vie-est-belle-30-ml-001484
+2025-05-13 01:22:07,814 - Об'єднання даних для notino-652813: сайт notino
+2025-05-13 01:22:08,911 - Успішно спарсено Brocard https://www.brocard.ua/ua/product/tualetna-voda-givenchy-gentleman-60-ml-145913?gad_source=1&gad_campaignid=21988139655&gbraid=0AAAAADF0uBJOzLej4OXU3FPXJ3rhgrC3O&gclid=CjwKCAjwuIbBBhBvEiwAsNypvbvZz08QaX2x4HudjjmMZElfhp12TaqwAkQPwaHZ-IaxOK4-RPyzeRoCD5MQAvD_BwE: Gentleman
+2025-05-13 01:22:08,911 - Парсинг Notino: https://www.notino.ua/lancome/la-vie-est-belle-parfumovana-voda-dlja-zhinok/p-83697/
+2025-05-13 01:22:08,911 - Об'єднання даних для brocard-145913: сайт brocard
+2025-05-13 01:22:09,786 - Успішно спарсено Notino https://www.notino.ua/armani/emporio-stronger-with-you-only-tualetna-voda-dlja-cholovikiv/p-16112475/: Emporio Stronger With You Only
+2025-05-13 01:22:09,786 - Парсинг Brocard: https://www.brocard.ua/ru/product/parfyumirovannaya-voda-tom-ford-black-orchid-150-ml-001062?q=tom%20ford%20black
+2025-05-13 01:22:09,786 - Об'єднання даних для notino-16112475: сайт notino
+2025-05-13 01:22:11,495 - Успішно спарсено Notino https://www.notino.ua/armani/emporio-stronger-with-you-parfum-parfumi-dlja-cholovikiv/p-16286107/: Emporio Stronger With You Parfum
+2025-05-13 01:22:11,495 - Парсинг Notino: https://www.notino.ua/tom-ford/black-orchid-parfumovana-voda-dlja-zhinok/p-81443/
+2025-05-13 01:22:11,495 - Об'єднання даних для notino-16286107: сайт notino
+2025-05-13 01:22:11,787 - Успішно спарсено Brocard https://www.brocard.ua/ua/product/parfumovana-voda-lancome-la-vie-est-belle-30-ml-001484: La Vie Est Belle
+2025-05-13 01:22:11,787 - Парсинг Brocard: https://www.brocard.ua/ua/product/parfumovana-voda-tom-ford-ombre-leather-150-ml-153555?q=ombre%20leather
+2025-05-13 01:22:11,791 - Об'єднання даних для brocard-001484: сайт brocard
+2025-05-13 01:22:12,135 - Успішно спарсено Brocard https://www.brocard.ua/ru/product/parfyumirovannaya-voda-tom-ford-black-orchid-150-ml-001062?q=tom%20ford%20black: Black Orchid
+2025-05-13 01:22:12,135 - Парсинг Notino: https://www.notino.ua/tom-ford/ombre-leather-parfumovana-voda-dlja-cholovikiv/p-15952679/
+2025-05-13 01:22:12,136 - Об'єднання даних для brocard-001062: сайт brocard
+2025-05-13 01:22:14,066 - Продукт недоступний на Brocard https://www.brocard.ua/ua/product/parfumovana-voda-tom-ford-ombre-leather-150-ml-153555?q=ombre%20leather
+2025-05-13 01:22:14,066 - Парсинг Brocard: https://www.brocard.ua/ua/product/parfumovana-voda-yves-saint-laurent-libre-50-ml-081744?gad_source=1&gad_campaignid=22414689983&gbraid=0AAAAADF0uBIjvEqjKHF-eoHAG36NadziY&gclid=CjwKCAjwuIbBBhBvEiwAsNypvRbphM4NE0SO5cdjPUgaXD6cmJk4Puxjg3WKEIjo9abLclwmc-yFOhoCtn8QAvD_BwE
+2025-05-13 01:22:14,066 - Об'єднання даних для brocard-153555: сайт brocard
+2025-05-13 01:22:14,836 - Успішно спарсено Notino https://www.notino.ua/givenchy/gentleman-givenchy-2017-tualetna-voda-dlja-cholovikiv/p-16135027/: Gentleman Givenchy
+2025-05-13 01:22:14,837 - Парсинг Notino: https://www.notino.ua/yves-saint-laurent/libre-libre-parfumovana-voda-dlja-zhinok/p-15968532/
+2025-05-13 01:22:14,837 - Об'єднання даних для notino-16135027: сайт notino
+2025-05-13 01:22:16,740 - Успішно спарсено Notino https://www.notino.ua/lancome/la-vie-est-belle-parfumovana-voda-dlja-zhinok/p-83697/: La Vie Est Belle
+2025-05-13 01:22:16,740 - Парсинг Brocard: https://www.brocard.ua/ua/product/parfumovana-voda-yves-saint-laurent-y-100-ml-068432
+2025-05-13 01:22:16,766 - Об'єднання даних для notino-83697: сайт notino
+2025-05-13 01:22:17,518 - Успішно спарсено Brocard https://www.brocard.ua/ua/product/parfumovana-voda-yves-saint-laurent-libre-50-ml-081744?gad_source=1&gad_campaignid=22414689983&gbraid=0AAAAADF0uBIjvEqjKHF-eoHAG36NadziY&gclid=CjwKCAjwuIbBBhBvEiwAsNypvRbphM4NE0SO5cdjPUgaXD6cmJk4Puxjg3WKEIjo9abLclwmc-yFOhoCtn8QAvD_BwE: Libre
+2025-05-13 01:22:17,518 - Парсинг Notino: https://www.notino.ua/yves-saint-laurent/y-parfumovana-voda-dlja-cholovikiv/p-15775663/
+2025-05-13 01:22:17,518 - Об'єднання даних для brocard-081744: сайт brocard
+2025-05-13 01:22:20,189 - Успішно спарсено Brocard https://www.brocard.ua/ua/product/parfumovana-voda-yves-saint-laurent-y-100-ml-068432: Y
+2025-05-13 01:22:20,190 - Об'єднання даних для brocard-068432: сайт brocard
+2025-05-13 01:22:20,785 - Успішно спарсено Notino https://www.notino.ua/tom-ford/black-orchid-parfumovana-voda-dlja-zhinok/p-81443/: Black Orchid
+2025-05-13 01:22:20,785 - Об'єднання даних для notino-81443: сайт notino
+2025-05-13 01:22:21,639 - Успішно спарсено Notino https://www.notino.ua/tom-ford/ombre-leather-parfumovana-voda-dlja-cholovikiv/p-15952679/: Ombr\xe9 Leather
+2025-05-13 01:22:21,639 - Об'єднання даних для notino-15952679: сайт notino
+2025-05-13 01:22:23,395 - Успішно спарсено Notino https://www.notino.ua/yves-saint-laurent/libre-libre-parfumovana-voda-dlja-zhinok/p-15968532/: Libre
+2025-05-13 01:22:23,395 - Об'єднання даних для notino-15968532: сайт notino
+2025-05-13 01:22:25,428 - Успішно спарсено Notino https://www.notino.ua/yves-saint-laurent/y-parfumovana-voda-dlja-cholovikiv/p-15775663/: Y
+2025-05-13 01:22:25,428 - Об'єднання даних для notino-15775663: сайт notino
+2025-05-13 01:22:25,430 - data.json записано з 41 записами
+2025-05-13 01:27:23,401 - Завантажено data.json із 39 записами
+2025-05-13 01:27:23,403 - Обробка URL: https://www.brocard.ua/ua/product/parfumovana-voda-tom-ford-tabacco-vanille-30-ml-001787?q=tobacco%20vanille
+2025-05-13 01:27:23,403 - Парсинг Brocard: https://www.brocard.ua/ua/product/parfumovana-voda-tom-ford-tabacco-vanille-30-ml-001787?q=tobacco%20vanille
+2025-05-13 01:27:23,403 - Обробка URL: https://www.brocard.ua/ua/product/parfum-giorgio-armani-stronger-with-you-absolutely-50-ml-137420
+2025-05-13 01:27:23,403 - Парсинг Brocard: https://www.brocard.ua/ua/product/parfum-giorgio-armani-stronger-with-you-absolutely-50-ml-137420
+2025-05-13 01:27:23,404 - Обробка URL: https://www.brocard.ua/ua/product/parfumovana-voda-giorgio-armani-stronger-with-you-intensely-30-ml-068434?gad_source=1&gclid=CjwKCAjw8IfABhBXEiwAxRHlsPkysiVE_2astyXjrAeaPlB6-5X18z0rVBt1KG8ZHphl9Ycgw2J7xRoCG-EQAvD_BwE
+2025-05-13 01:27:23,404 - Парсинг Brocard: https://www.brocard.ua/ua/product/parfumovana-voda-giorgio-armani-stronger-with-you-intensely-30-ml-068434?gad_source=1&gclid=CjwKCAjw8IfABhBXEiwAxRHlsPkysiVE_2astyXjrAeaPlB6-5X18z0rVBt1KG8ZHphl9Ycgw2J7xRoCG-EQAvD_BwE
+2025-05-13 01:27:23,404 - Обробка URL: https://www.brocard.ua/ua/product/eliksir-armani-acqua-di-gio-50-ml-188759?gad_source=1&gad_campaignid=22504884958&gbraid=0AAAAADF0uBKOcmEj31cYj9u3Xzu1oRn9w&gclid=CjwKCAjwz_bABhAGEiwAm-P8YZPxtklpZL5sB6wCMaJMSlnWZ3_W_I7SyPhVBXpw8ix2ihgigG94MBoCrwYQAvD_BwE
+2025-05-13 01:27:23,404 - Парсинг Brocard: https://www.brocard.ua/ua/product/eliksir-armani-acqua-di-gio-50-ml-188759?gad_source=1&gad_campaignid=22504884958&gbraid=0AAAAADF0uBKOcmEj31cYj9u3Xzu1oRn9w&gclid=CjwKCAjwz_bABhAGEiwAm-P8YZPxtklpZL5sB6wCMaJMSlnWZ3_W_I7SyPhVBXpw8ix2ihgigG94MBoCrwYQAvD_BwE
+2025-05-13 01:27:23,404 - Обробка URL: https://www.notino.ua/armani/emporio-stronger-with-you-amber-parfumovana-voda-uniseks/p-16264803/
+2025-05-13 01:27:23,405 - Парсинг Notino: https://www.notino.ua/armani/emporio-stronger-with-you-amber-parfumovana-voda-uniseks/p-16264803/
+2025-05-13 01:27:23,405 - Обробка URL: https://www.notino.ua/armani/emporio-stronger-with-you-intensely-parfumovana-voda-dlja-cholovikiv/p-16286591/
+2025-05-13 01:27:23,405 - Обробка URL: https://www.notino.ua/armani/acqua-di-gio-elixir-parfumi-ekstrakt-dlja-cholovikiv/p-16289594/?gad_source=1&gad_campaignid=1618233551&gbraid=0AAAAADRCXFmFRCNPILI4b92yHyzAWdHO1&gclid=CjwKCAjwz_bABhAGEiwAm-P8Yck-4-2QHUYEaWaTQggfxPPe3behygx0l5hgFLM1Y7SSjzc3NGxcFRoCAQsQAvD_BwE
+2025-05-13 01:27:23,405 - Обробка URL: https://www.notino.ua/armani/acqua-di-gio-tualetna-voda-z-mozhlivistju-povtornogo-napovnennja-dlja-cholovikiv/p-16231211/?gad_source=1&gad_campaignid=22291202830&gbraid=0AAAAADRCXFmpYMDUF9oijcKanoUq0dxFb&gclid=Cj0KCQjw8vvABhCcARIsAOCfwwqJ9QuNNAaABD04D_ils3pAkup4Y2P3oZimfR-A1Yd1HcTgmPbEBrMaAkViEALw_wcB
+2025-05-13 01:27:23,405 - Обробка URL: https://www.brocard.ua/ua/product/tualetna-voda-armani-acqua-di-gio-50-ml-172188
+2025-05-13 01:27:23,405 - Обробка URL: https://www.notino.ua/tom-ford/tobacco-vanille-parfumovana-voda-uniseks/p-16294216/
+2025-05-13 01:27:23,405 - Обробка URL: https://www.brocard.ua/ua/product/parfumovana-voda-tom-ford-lost-cherry-100-ml-067840
+2025-05-13 01:27:23,405 - Обробка URL: https://www.notino.ua/tom-ford/private-blend-lost-cherry-parfumovana-voda-uniseks/p-16293769/
+2025-05-13 01:27:23,405 - Обробка URL: https://www.brocard.ua/ua/product/parfumovana-voda-giorgio-armani-acqua-di-gio-profondo-75-ml-085406
+2025-05-13 01:27:23,405 - Обробка URL: https://www.notino.ua/armani/acqua-di-gio-profondo-parfumovana-voda-dlja-cholovikiv/p-16016202/
+2025-05-13 01:27:23,405 - Обробка URL: https://www.brocard.ua/ru/product/parfyumirovannaya-voda-carolina-herrera-good-girl-80-ml-134225?gad_source=1&gad_campaignid=21988025991&gbraid=0AAAAADF0uBIsBQ9emdRGiXpcBVtYBtzhe&gclid=CjwKCAjwuIbBBhBvEiwAsNypvR6I19XpCvRT9Gb60dZXAY7RjAluw8BWTBw3G2JSLru1u8cdk5k1YhoC4TUQAvD_BwE
+2025-05-13 01:27:23,405 - Обробка URL: https://www.notino.ua/carolina-herrera/good-girl-parfumovana-voda-dlja-zhinok/p-16232983/
+2025-05-13 01:27:23,405 - Обробка URL: https://www.brocard.ua/ua/product/parfumovana-voda-creed-aventus-50-ml-114599?q=creed%20aventus
+2025-05-13 01:27:23,405 - Обробка URL: https://www.brocard.ua/ua/product/parfumovana-voda-dior-homme-intense-100-ml-001372?gad_source=1&gad_campaignid=21998323564&gbraid=0AAAAADF0uBL981Qg4WYa96emoZsnEp4Hh&gclid=CjwKCAjwuIbBBhBvEiwAsNypvdVEDNI8gzuzKsmNkFWLJNgdh5tHnW0ARlrNebWUfOEcxcyF_SxzCRoCUOUQAvD_BwE
+2025-05-13 01:27:23,405 - Обробка URL: https://www.notino.ua/dior/dior-homme-intense-2011-parfumovana-voda-dlja-cholovikiv/p-64456/?gad_source=1&gad_campaignid=22291202830&gbraid=0AAAAADRCXFmvWixHHjtD1DqAIJEykYtAI&gclid=CjwKCAjwuIbBBhBvEiwAsNypveJsEDn3xgVqr5I7BMA0Cg7W7EJGJfWBn_krr2BiGniKoWkcwvxVAhoCJ4QQAvD_BwE
+2025-05-13 01:27:23,405 - Обробка URL: https://www.brocard.ua/ua/product/tualetna-voda-dsquared2-red-wood-50-ml-086017?q=red%20wood%20dsquared
+2025-05-13 01:27:23,405 - Обробка URL: https://www.notino.ua/dsquared2/red-wood-tualetna-voda-dlja-zhinok/p-16056766/
+2025-05-13 01:27:23,406 - Обробка URL: https://www.brocard.ua/ua/product/parfumovana-voda-armani-acqua-di-gio-profondo-100-ml-172769
+2025-05-13 01:27:23,406 - Обробка URL: https://www.notino.ua/armani/acqua-di-gio-profondo-parfum-parfumi-dlja-cholovikiv/p-16233729/
+2025-05-13 01:27:23,406 - Обробка URL: https://www.brocard.ua/ua/product/parfumovana-voda-giorgio-armani-because-it-s-you-100-ml-001050
+2025-05-13 01:27:23,406 - Обробка URL: https://www.notino.ua/armani/emporio-because-its-you-parfumovana-voda-dlja-zhinok/p-652813/
+2025-05-13 01:27:23,406 - Обробка URL: https://www.brocard.ua/ua/product/tualetna-voda-giorgio-armani-stronger-with-you-only-100-ml-147348
+2025-05-13 01:27:23,406 - Обробка URL: https://www.notino.ua/armani/emporio-stronger-with-you-only-tualetna-voda-dlja-cholovikiv/p-16112475/
+2025-05-13 01:27:23,406 - Обробка URL: https://www.brocard.ua/ua/product/parfumi-armani-emporio-armani-stronger-with-you-50-ml-187509?q=stronger%20with%20you%20parfum
+2025-05-13 01:27:23,406 - Обробка URL: https://www.notino.ua/armani/emporio-stronger-with-you-parfum-parfumi-dlja-cholovikiv/p-16286107/
+2025-05-13 01:27:23,406 - Обробка URL: https://www.brocard.ua/ua/product/tualetna-voda-givenchy-gentleman-60-ml-145913?gad_source=1&gad_campaignid=21988139655&gbraid=0AAAAADF0uBJOzLej4OXU3FPXJ3rhgrC3O&gclid=CjwKCAjwuIbBBhBvEiwAsNypvbvZz08QaX2x4HudjjmMZElfhp12TaqwAkQPwaHZ-IaxOK4-RPyzeRoCD5MQAvD_BwE
+2025-05-13 01:27:23,406 - Обробка URL: https://www.notino.ua/givenchy/gentleman-givenchy-2017-tualetna-voda-dlja-cholovikiv/p-16135027/
+2025-05-13 01:27:23,406 - Обробка URL: https://www.brocard.ua/ua/product/parfumovana-voda-lancome-la-vie-est-belle-30-ml-001484
+2025-05-13 01:27:23,406 - Обробка URL: https://www.notino.ua/lancome/la-vie-est-belle-parfumovana-voda-dlja-zhinok/p-83697/
+2025-05-13 01:27:23,406 - Обробка URL: https://www.brocard.ua/ru/product/parfyumirovannaya-voda-tom-ford-black-orchid-150-ml-001062?q=tom%20ford%20black
+2025-05-13 01:27:23,406 - Обробка URL: https://www.notino.ua/tom-ford/black-orchid-parfumovana-voda-dlja-zhinok/p-81443/
+2025-05-13 01:27:23,406 - Обробка URL: https://www.brocard.ua/ua/product/parfumovana-voda-tom-ford-ombre-leather-150-ml-153555?q=ombre%20leather
+2025-05-13 01:27:23,406 - Обробка URL: https://www.notino.ua/tom-ford/ombre-leather-parfumovana-voda-dlja-cholovikiv/p-15952679/
+2025-05-13 01:27:23,406 - Обробка URL: https://www.brocard.ua/ua/product/parfumovana-voda-yves-saint-laurent-libre-50-ml-081744?gad_source=1&gad_campaignid=22414689983&gbraid=0AAAAADF0uBIjvEqjKHF-eoHAG36NadziY&gclid=CjwKCAjwuIbBBhBvEiwAsNypvRbphM4NE0SO5cdjPUgaXD6cmJk4Puxjg3WKEIjo9abLclwmc-yFOhoCtn8QAvD_BwE
+2025-05-13 01:27:23,406 - Обробка URL: https://www.notino.ua/yves-saint-laurent/libre-libre-parfumovana-voda-dlja-zhinok/p-15968532/
+2025-05-13 01:27:23,406 - Обробка URL: https://www.brocard.ua/ua/product/parfumovana-voda-yves-saint-laurent-y-100-ml-068432
+2025-05-13 01:27:23,406 - Обробка URL: https://www.notino.ua/yves-saint-laurent/y-parfumovana-voda-dlja-cholovikiv/p-15775663/
+2025-05-13 01:27:26,262 - Успішно спарсено Brocard https://www.brocard.ua/ua/product/eliksir-armani-acqua-di-gio-50-ml-188759?gad_source=1&gad_campaignid=22504884958&gbraid=0AAAAADF0uBKOcmEj31cYj9u3Xzu1oRn9w&gclid=CjwKCAjwz_bABhAGEiwAm-P8YZPxtklpZL5sB6wCMaJMSlnWZ3_W_I7SyPhVBXpw8ix2ihgigG94MBoCrwYQAvD_BwE: Acqua Di Gio
+2025-05-13 01:27:26,263 - Парсинг Notino: https://www.notino.ua/armani/emporio-stronger-with-you-intensely-parfumovana-voda-dlja-cholovikiv/p-16286591/
+2025-05-13 01:27:26,368 - Об'єднання даних для brocard-188759: сайт brocard
+2025-05-13 01:27:26,823 - Успішно спарсено Brocard https://www.brocard.ua/ua/product/parfumovana-voda-tom-ford-tabacco-vanille-30-ml-001787?q=tobacco%20vanille: Private Blend Tobacco Vanille
+2025-05-13 01:27:26,823 - Парсинг Notino: https://www.notino.ua/armani/acqua-di-gio-elixir-parfumi-ekstrakt-dlja-cholovikiv/p-16289594/?gad_source=1&gad_campaignid=1618233551&gbraid=0AAAAADRCXFmFRCNPILI4b92yHyzAWdHO1&gclid=CjwKCAjwz_bABhAGEiwAm-P8Yck-4-2QHUYEaWaTQggfxPPe3behygx0l5hgFLM1Y7SSjzc3NGxcFRoCAQsQAvD_BwE
+2025-05-13 01:27:26,823 - Об'єднання даних для brocard-001787: сайт brocard
+2025-05-13 01:27:26,917 - Успішно спарсено Brocard https://www.brocard.ua/ua/product/parfum-giorgio-armani-stronger-with-you-absolutely-50-ml-137420: Stronger with You Absolutely
+2025-05-13 01:27:26,918 - Парсинг Notino: https://www.notino.ua/armani/acqua-di-gio-tualetna-voda-z-mozhlivistju-povtornogo-napovnennja-dlja-cholovikiv/p-16231211/?gad_source=1&gad_campaignid=22291202830&gbraid=0AAAAADRCXFmpYMDUF9oijcKanoUq0dxFb&gclid=Cj0KCQjw8vvABhCcARIsAOCfwwqJ9QuNNAaABD04D_ils3pAkup4Y2P3oZimfR-A1Yd1HcTgmPbEBrMaAkViEALw_wcB
+2025-05-13 01:27:26,918 - Об'єднання даних для brocard-137420: сайт brocard
+2025-05-13 01:27:27,316 - Успішно спарсено Brocard https://www.brocard.ua/ua/product/parfumovana-voda-giorgio-armani-stronger-with-you-intensely-30-ml-068434?gad_source=1&gclid=CjwKCAjw8IfABhBXEiwAxRHlsPkysiVE_2astyXjrAeaPlB6-5X18z0rVBt1KG8ZHphl9Ycgw2J7xRoCG-EQAvD_BwE: Stronger With You Intensely
+2025-05-13 01:27:27,316 - Парсинг Brocard: https://www.brocard.ua/ua/product/tualetna-voda-armani-acqua-di-gio-50-ml-172188
+2025-05-13 01:27:27,317 - Об'єднання даних для brocard-068434: сайт brocard
+2025-05-13 01:27:30,693 - Успішно спарсено Brocard https://www.brocard.ua/ua/product/tualetna-voda-armani-acqua-di-gio-50-ml-172188: Acqua Di Gio
+2025-05-13 01:27:30,693 - Парсинг Notino: https://www.notino.ua/tom-ford/tobacco-vanille-parfumovana-voda-uniseks/p-16294216/
+2025-05-13 01:27:30,694 - Об'єднання даних для brocard-172188: сайт brocard
+2025-05-13 01:27:30,988 - Успішно спарсено Notino https://www.notino.ua/armani/emporio-stronger-with-you-amber-parfumovana-voda-uniseks/p-16264803/: Emporio Stronger With You Amber
+2025-05-13 01:27:30,988 - Парсинг Brocard: https://www.brocard.ua/ua/product/parfumovana-voda-tom-ford-lost-cherry-100-ml-067840
+2025-05-13 01:27:30,999 - Об'єднання даних для notino-16264803: сайт notino
+2025-05-13 01:27:34,675 - Успішно спарсено Brocard https://www.brocard.ua/ua/product/parfumovana-voda-tom-ford-lost-cherry-100-ml-067840: Private Blend Lost Cherry
+2025-05-13 01:27:34,675 - Парсинг Notino: https://www.notino.ua/tom-ford/private-blend-lost-cherry-parfumovana-voda-uniseks/p-16293769/
+2025-05-13 01:27:34,676 - Об'єднання даних для brocard-067840: сайт brocard
+2025-05-13 01:27:36,574 - Успішно спарсено Notino https://www.notino.ua/armani/emporio-stronger-with-you-intensely-parfumovana-voda-dlja-cholovikiv/p-16286591/: Emporio Stronger With You Intensely
+2025-05-13 01:27:36,574 - Парсинг Brocard: https://www.brocard.ua/ua/product/parfumovana-voda-giorgio-armani-acqua-di-gio-profondo-75-ml-085406
+2025-05-13 01:27:36,577 - Успішно спарсено Notino https://www.notino.ua/armani/acqua-di-gio-elixir-parfumi-ekstrakt-dlja-cholovikiv/p-16289594/?gad_source=1&gad_campaignid=1618233551&gbraid=0AAAAADRCXFmFRCNPILI4b92yHyzAWdHO1&gclid=CjwKCAjwz_bABhAGEiwAm-P8Yck-4-2QHUYEaWaTQggfxPPe3behygx0l5hgFLM1Y7SSjzc3NGxcFRoCAQsQAvD_BwE: Acqua di Gi\xf2 Elixir
+2025-05-13 01:27:36,578 - Об'єднання даних для notino-16286591: сайт notino
+2025-05-13 01:27:36,578 - Парсинг Notino: https://www.notino.ua/armani/acqua-di-gio-profondo-parfumovana-voda-dlja-cholovikiv/p-16016202/
+2025-05-13 01:27:36,578 - Об'єднання даних для notino-16289594: сайт notino
+2025-05-13 01:27:36,592 - Успішно спарсено Notino https://www.notino.ua/armani/acqua-di-gio-tualetna-voda-z-mozhlivistju-povtornogo-napovnennja-dlja-cholovikiv/p-16231211/?gad_source=1&gad_campaignid=22291202830&gbraid=0AAAAADRCXFmpYMDUF9oijcKanoUq0dxFb&gclid=Cj0KCQjw8vvABhCcARIsAOCfwwqJ9QuNNAaABD04D_ils3pAkup4Y2P3oZimfR-A1Yd1HcTgmPbEBrMaAkViEALw_wcB: Acqua di Gi\xf2
+2025-05-13 01:27:36,592 - Парсинг Brocard: https://www.brocard.ua/ru/product/parfyumirovannaya-voda-carolina-herrera-good-girl-80-ml-134225?gad_source=1&gad_campaignid=21988025991&gbraid=0AAAAADF0uBIsBQ9emdRGiXpcBVtYBtzhe&gclid=CjwKCAjwuIbBBhBvEiwAsNypvR6I19XpCvRT9Gb60dZXAY7RjAluw8BWTBw3G2JSLru1u8cdk5k1YhoC4TUQAvD_BwE
+2025-05-13 01:27:36,592 - Об'єднання даних для notino-16231211: сайт notino
+2025-05-13 01:27:38,920 - Не знайдено perfume_name для brocard_id brocard-134225
+2025-05-13 01:27:38,920 - Тимчасова назва для brocard-134225: perfume-134225
+2025-05-13 01:27:38,947 - Успішно спарсено Brocard https://www.brocard.ua/ru/product/parfyumirovannaya-voda-carolina-herrera-good-girl-80-ml-134225?gad_source=1&gad_campaignid=21988025991&gbraid=0AAAAADF0uBIsBQ9emdRGiXpcBVtYBtzhe&gclid=CjwKCAjwuIbBBhBvEiwAsNypvR6I19XpCvRT9Gb60dZXAY7RjAluw8BWTBw3G2JSLru1u8cdk5k1YhoC4TUQAvD_BwE: Good Girl
+2025-05-13 01:27:38,948 - Парсинг Notino: https://www.notino.ua/carolina-herrera/good-girl-parfumovana-voda-dlja-zhinok/p-16232983/
+2025-05-13 01:27:38,955 - Об'єднання даних для brocard-134225: сайт brocard
+2025-05-13 01:27:39,046 - Продукт недоступний на Brocard https://www.brocard.ua/ua/product/parfumovana-voda-giorgio-armani-acqua-di-gio-profondo-75-ml-085406
+2025-05-13 01:27:39,046 - Парсинг Brocard: https://www.brocard.ua/ua/product/parfumovana-voda-creed-aventus-50-ml-114599?q=creed%20aventus
+2025-05-13 01:27:39,048 - Об'єднання даних для brocard-085406: сайт brocard
+2025-05-13 01:27:40,360 - Успішно спарсено Notino https://www.notino.ua/tom-ford/tobacco-vanille-parfumovana-voda-uniseks/p-16294216/: Private Blend Tobacco Vanille
+2025-05-13 01:27:40,360 - Парсинг Brocard: https://www.brocard.ua/ua/product/parfumovana-voda-dior-homme-intense-100-ml-001372?gad_source=1&gad_campaignid=21998323564&gbraid=0AAAAADF0uBL981Qg4WYa96emoZsnEp4Hh&gclid=CjwKCAjwuIbBBhBvEiwAsNypvdVEDNI8gzuzKsmNkFWLJNgdh5tHnW0ARlrNebWUfOEcxcyF_SxzCRoCUOUQAvD_BwE
+2025-05-13 01:27:40,361 - Об'єднання даних для notino-16294216: сайт notino
+2025-05-13 01:27:41,379 - Продукт недоступний на Brocard https://www.brocard.ua/ua/product/parfumovana-voda-creed-aventus-50-ml-114599?q=creed%20aventus
+2025-05-13 01:27:41,380 - Парсинг Notino: https://www.notino.ua/dior/dior-homme-intense-2011-parfumovana-voda-dlja-cholovikiv/p-64456/?gad_source=1&gad_campaignid=22291202830&gbraid=0AAAAADRCXFmvWixHHjtD1DqAIJEykYtAI&gclid=CjwKCAjwuIbBBhBvEiwAsNypveJsEDn3xgVqr5I7BMA0Cg7W7EJGJfWBn_krr2BiGniKoWkcwvxVAhoCJ4QQAvD_BwE
+2025-05-13 01:27:41,381 - Об'єднання даних для brocard-114599: сайт brocard
+2025-05-13 01:27:42,666 - Не знайдено perfume_name для brocard_id brocard-001372
+2025-05-13 01:27:42,666 - Тимчасова назва для brocard-001372: perfume-001372
+2025-05-13 01:27:43,544 - Успішно спарсено Brocard https://www.brocard.ua/ua/product/parfumovana-voda-dior-homme-intense-100-ml-001372?gad_source=1&gad_campaignid=21998323564&gbraid=0AAAAADF0uBL981Qg4WYa96emoZsnEp4Hh&gclid=CjwKCAjwuIbBBhBvEiwAsNypvdVEDNI8gzuzKsmNkFWLJNgdh5tHnW0ARlrNebWUfOEcxcyF_SxzCRoCUOUQAvD_BwE: Homme Intense
+2025-05-13 01:27:43,545 - Парсинг Brocard: https://www.brocard.ua/ua/product/tualetna-voda-dsquared2-red-wood-50-ml-086017?q=red%20wood%20dsquared
+2025-05-13 01:27:43,545 - Об'єднання даних для brocard-001372: сайт brocard
+2025-05-13 01:27:43,733 - Успішно спарсено Notino https://www.notino.ua/tom-ford/private-blend-lost-cherry-parfumovana-voda-uniseks/p-16293769/: Private Blend Lost Cherry
+2025-05-13 01:27:43,734 - Парсинг Notino: https://www.notino.ua/dsquared2/red-wood-tualetna-voda-dlja-zhinok/p-16056766/
+2025-05-13 01:27:43,734 - Об'єднання даних для notino-16293769: сайт notino
+2025-05-13 01:27:44,565 - Успішно спарсено Notino https://www.notino.ua/armani/acqua-di-gio-profondo-parfumovana-voda-dlja-cholovikiv/p-16016202/: Acqua di Gi\xf2 Profondo
+2025-05-13 01:27:44,565 - Парсинг Brocard: https://www.brocard.ua/ua/product/parfumovana-voda-armani-acqua-di-gio-profondo-100-ml-172769
+2025-05-13 01:27:44,565 - Об'єднання даних для notino-16016202: сайт notino
+2025-05-13 01:27:47,191 - Успішно спарсено Notino https://www.notino.ua/carolina-herrera/good-girl-parfumovana-voda-dlja-zhinok/p-16232983/: Good Girl
+2025-05-13 01:27:47,191 - Парсинг Notino: https://www.notino.ua/armani/acqua-di-gio-profondo-parfum-parfumi-dlja-cholovikiv/p-16233729/
+2025-05-13 01:27:47,194 - Об'єднання даних для notino-16232983: сайт notino
+2025-05-13 01:27:47,194 - Успішно спарсено Brocard https://www.brocard.ua/ua/product/tualetna-voda-dsquared2-red-wood-50-ml-086017?q=red%20wood%20dsquared: Red Wood
+2025-05-13 01:27:47,195 - Парсинг Brocard: https://www.brocard.ua/ua/product/parfumovana-voda-giorgio-armani-because-it-s-you-100-ml-001050
+2025-05-13 01:27:47,195 - Об'єднання даних для brocard-086017: сайт brocard
+2025-05-13 01:27:48,108 - Успішно спарсено Brocard https://www.brocard.ua/ua/product/parfumovana-voda-armani-acqua-di-gio-profondo-100-ml-172769: Acqua di Gio Profondo
+2025-05-13 01:27:48,108 - Парсинг Notino: https://www.notino.ua/armani/emporio-because-its-you-parfumovana-voda-dlja-zhinok/p-652813/
+2025-05-13 01:27:48,108 - Об'єднання даних для brocard-172769: сайт brocard
+2025-05-13 01:27:49,826 - Не знайдено perfume_name для notino_id notino-64456
+2025-05-13 01:27:49,826 - Тимчасова назва для notino-64456: perfume-64456
+2025-05-13 01:27:49,836 - Успішно спарсено Notino https://www.notino.ua/dior/dior-homme-intense-2011-parfumovana-voda-dlja-cholovikiv/p-64456/?gad_source=1&gad_campaignid=22291202830&gbraid=0AAAAADRCXFmvWixHHjtD1DqAIJEykYtAI&gclid=CjwKCAjwuIbBBhBvEiwAsNypveJsEDn3xgVqr5I7BMA0Cg7W7EJGJfWBn_krr2BiGniKoWkcwvxVAhoCJ4QQAvD_BwE: Dior Homme Intense
+2025-05-13 01:27:49,836 - Парсинг Brocard: https://www.brocard.ua/ua/product/tualetna-voda-giorgio-armani-stronger-with-you-only-100-ml-147348
+2025-05-13 01:27:49,836 - Об'єднання даних для notino-64456: сайт notino
+2025-05-13 01:27:50,290 - Успішно спарсено Brocard https://www.brocard.ua/ua/product/parfumovana-voda-giorgio-armani-because-it-s-you-100-ml-001050: Because It's You
+2025-05-13 01:27:50,291 - Парсинг Notino: https://www.notino.ua/armani/emporio-stronger-with-you-only-tualetna-voda-dlja-cholovikiv/p-16112475/
+2025-05-13 01:27:50,291 - Об'єднання даних для brocard-001050: сайт brocard
+2025-05-13 01:27:51,507 - Успішно спарсено Notino https://www.notino.ua/dsquared2/red-wood-tualetna-voda-dlja-zhinok/p-16056766/: Red Wood
+2025-05-13 01:27:51,507 - Парсинг Brocard: https://www.brocard.ua/ua/product/parfumi-armani-emporio-armani-stronger-with-you-50-ml-187509?q=stronger%20with%20you%20parfum
+2025-05-13 01:27:51,507 - Об'єднання даних для notino-16056766: сайт notino
+2025-05-13 01:27:52,103 - Продукт недоступний на Brocard https://www.brocard.ua/ua/product/tualetna-voda-giorgio-armani-stronger-with-you-only-100-ml-147348
+2025-05-13 01:27:52,103 - Парсинг Notino: https://www.notino.ua/armani/emporio-stronger-with-you-parfum-parfumi-dlja-cholovikiv/p-16286107/
+2025-05-13 01:27:52,103 - Об'єднання даних для brocard-147348: сайт brocard
+2025-05-13 01:27:54,802 - Успішно спарсено Brocard https://www.brocard.ua/ua/product/parfumi-armani-emporio-armani-stronger-with-you-50-ml-187509?q=stronger%20with%20you%20parfum: Emporio Armani Stronger With You
+2025-05-13 01:27:54,803 - Парсинг Brocard: https://www.brocard.ua/ua/product/tualetna-voda-givenchy-gentleman-60-ml-145913?gad_source=1&gad_campaignid=21988139655&gbraid=0AAAAADF0uBJOzLej4OXU3FPXJ3rhgrC3O&gclid=CjwKCAjwuIbBBhBvEiwAsNypvbvZz08QaX2x4HudjjmMZElfhp12TaqwAkQPwaHZ-IaxOK4-RPyzeRoCD5MQAvD_BwE
+2025-05-13 01:27:54,803 - Об'єднання даних для brocard-187509: сайт brocard
+2025-05-13 01:27:55,480 - Успішно спарсено Notino https://www.notino.ua/armani/acqua-di-gio-profondo-parfum-parfumi-dlja-cholovikiv/p-16233729/: Acqua di Gi\xf2 Profondo Parfum
+2025-05-13 01:27:55,480 - Парсинг Notino: https://www.notino.ua/givenchy/gentleman-givenchy-2017-tualetna-voda-dlja-cholovikiv/p-16135027/
+2025-05-13 01:27:55,480 - Об'єднання даних для notino-16233729: сайт notino
+2025-05-13 01:27:56,332 - Успішно спарсено Notino https://www.notino.ua/armani/emporio-because-its-you-parfumovana-voda-dlja-zhinok/p-652813/: Emporio Because It's You
+2025-05-13 01:27:56,333 - Парсинг Brocard: https://www.brocard.ua/ua/product/parfumovana-voda-lancome-la-vie-est-belle-30-ml-001484
+2025-05-13 01:27:56,333 - Об'єднання даних для notino-652813: сайт notino
+2025-05-13 01:27:57,722 - Успішно спарсено Brocard https://www.brocard.ua/ua/product/tualetna-voda-givenchy-gentleman-60-ml-145913?gad_source=1&gad_campaignid=21988139655&gbraid=0AAAAADF0uBJOzLej4OXU3FPXJ3rhgrC3O&gclid=CjwKCAjwuIbBBhBvEiwAsNypvbvZz08QaX2x4HudjjmMZElfhp12TaqwAkQPwaHZ-IaxOK4-RPyzeRoCD5MQAvD_BwE: Gentleman
+2025-05-13 01:27:57,724 - Парсинг Notino: https://www.notino.ua/lancome/la-vie-est-belle-parfumovana-voda-dlja-zhinok/p-83697/
+2025-05-13 01:27:57,724 - Об'єднання даних для brocard-145913: сайт brocard
+2025-05-13 01:27:58,159 - Успішно спарсено Notino https://www.notino.ua/armani/emporio-stronger-with-you-only-tualetna-voda-dlja-cholovikiv/p-16112475/: Emporio Stronger With You Only
+2025-05-13 01:27:58,159 - Парсинг Brocard: https://www.brocard.ua/ru/product/parfyumirovannaya-voda-tom-ford-black-orchid-150-ml-001062?q=tom%20ford%20black
+2025-05-13 01:27:58,159 - Об'єднання даних для notino-16112475: сайт notino
+2025-05-13 01:28:00,400 - Успішно спарсено Brocard https://www.brocard.ua/ua/product/parfumovana-voda-lancome-la-vie-est-belle-30-ml-001484: La Vie Est Belle
+2025-05-13 01:28:00,401 - Парсинг Notino: https://www.notino.ua/tom-ford/black-orchid-parfumovana-voda-dlja-zhinok/p-81443/
+2025-05-13 01:28:00,401 - Об'єднання даних для brocard-001484: сайт brocard
+2025-05-13 01:28:00,559 - Успішно спарсено Brocard https://www.brocard.ua/ru/product/parfyumirovannaya-voda-tom-ford-black-orchid-150-ml-001062?q=tom%20ford%20black: Black Orchid
+2025-05-13 01:28:00,560 - Парсинг Brocard: https://www.brocard.ua/ua/product/parfumovana-voda-tom-ford-ombre-leather-150-ml-153555?q=ombre%20leather
+2025-05-13 01:28:00,560 - Об'єднання даних для brocard-001062: сайт brocard
+2025-05-13 01:28:01,402 - Успішно спарсено Notino https://www.notino.ua/armani/emporio-stronger-with-you-parfum-parfumi-dlja-cholovikiv/p-16286107/: Emporio Stronger With You Parfum
+2025-05-13 01:28:01,403 - Парсинг Notino: https://www.notino.ua/tom-ford/ombre-leather-parfumovana-voda-dlja-cholovikiv/p-15952679/
+2025-05-13 01:28:01,403 - Об'єднання даних для notino-16286107: сайт notino
+2025-05-13 01:28:02,893 - Продукт недоступний на Brocard https://www.brocard.ua/ua/product/parfumovana-voda-tom-ford-ombre-leather-150-ml-153555?q=ombre%20leather
+2025-05-13 01:28:02,894 - Парсинг Brocard: https://www.brocard.ua/ua/product/parfumovana-voda-yves-saint-laurent-libre-50-ml-081744?gad_source=1&gad_campaignid=22414689983&gbraid=0AAAAADF0uBIjvEqjKHF-eoHAG36NadziY&gclid=CjwKCAjwuIbBBhBvEiwAsNypvRbphM4NE0SO5cdjPUgaXD6cmJk4Puxjg3WKEIjo9abLclwmc-yFOhoCtn8QAvD_BwE
+2025-05-13 01:28:02,894 - Об'єднання даних для brocard-153555: сайт brocard
+2025-05-13 01:28:03,226 - Успішно спарсено Notino https://www.notino.ua/givenchy/gentleman-givenchy-2017-tualetna-voda-dlja-cholovikiv/p-16135027/: Gentleman Givenchy
+2025-05-13 01:28:03,226 - Парсинг Notino: https://www.notino.ua/yves-saint-laurent/libre-libre-parfumovana-voda-dlja-zhinok/p-15968532/
+2025-05-13 01:28:03,226 - Об'єднання даних для notino-16135027: сайт notino
+2025-05-13 01:28:05,778 - Успішно спарсено Notino https://www.notino.ua/lancome/la-vie-est-belle-parfumovana-voda-dlja-zhinok/p-83697/: La Vie Est Belle
+2025-05-13 01:28:05,779 - Парсинг Brocard: https://www.brocard.ua/ua/product/parfumovana-voda-yves-saint-laurent-y-100-ml-068432
+2025-05-13 01:28:05,779 - Об'єднання даних для notino-83697: сайт notino
+2025-05-13 01:28:06,570 - Успішно спарсено Brocard https://www.brocard.ua/ua/product/parfumovana-voda-yves-saint-laurent-libre-50-ml-081744?gad_source=1&gad_campaignid=22414689983&gbraid=0AAAAADF0uBIjvEqjKHF-eoHAG36NadziY&gclid=CjwKCAjwuIbBBhBvEiwAsNypvRbphM4NE0SO5cdjPUgaXD6cmJk4Puxjg3WKEIjo9abLclwmc-yFOhoCtn8QAvD_BwE: Libre
+2025-05-13 01:28:06,571 - Парсинг Notino: https://www.notino.ua/yves-saint-laurent/y-parfumovana-voda-dlja-cholovikiv/p-15775663/
+2025-05-13 01:28:06,576 - Об'єднання даних для brocard-081744: сайт brocard
+2025-05-13 01:28:09,252 - Успішно спарсено Brocard https://www.brocard.ua/ua/product/parfumovana-voda-yves-saint-laurent-y-100-ml-068432: Y
+2025-05-13 01:28:09,253 - Об'єднання даних для brocard-068432: сайт brocard
+2025-05-13 01:28:09,481 - Успішно спарсено Notino https://www.notino.ua/tom-ford/black-orchid-parfumovana-voda-dlja-zhinok/p-81443/: Black Orchid
+2025-05-13 01:28:09,481 - Об'єднання даних для notino-81443: сайт notino
+2025-05-13 01:28:09,629 - Успішно спарсено Notino https://www.notino.ua/tom-ford/ombre-leather-parfumovana-voda-dlja-cholovikiv/p-15952679/: Ombr\xe9 Leather
+2025-05-13 01:28:09,629 - Об'єднання даних для notino-15952679: сайт notino
+2025-05-13 01:28:11,468 - Успішно спарсено Notino https://www.notino.ua/yves-saint-laurent/libre-libre-parfumovana-voda-dlja-zhinok/p-15968532/: Libre
+2025-05-13 01:28:11,468 - Об'єднання даних для notino-15968532: сайт notino
+2025-05-13 01:28:14,420 - Успішно спарсено Notino https://www.notino.ua/yves-saint-laurent/y-parfumovana-voda-dlja-cholovikiv/p-15775663/: Y
+2025-05-13 01:28:14,420 - Об'єднання даних для notino-15775663: сайт notino
+2025-05-13 01:28:14,422 - data.json записано з 41 записами

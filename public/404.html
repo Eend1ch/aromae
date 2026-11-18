@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>404 - Сторінку не знайдено</title>
+    <link rel="preload" href="https://fonts.gstatic.com/s/rubik/v20/7Q1k8zSTPOxHqVuyGzJrTTk.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+    <link rel="preload" href="https://fonts.gstatic.com/s/lobster/v26/cJt9NVcduzQSO30gGq_1Rg.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;600;700&family=Lobster&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css" />
+    <style>
+        .info {
+            text-align: center;
+            display: block;
+            justify-content: center;
+            align-items: center;
+            padding-top: 100px;
+            margin-top: 10px;
+            padding-bottom: 0px;
+            margin-bottom: 0px;
+        }   
+        .onMain {
+            height: 50px;
+            background-color: black;
+            border: none;
+            border-radius: 3px;
+            padding: 16px;
+            color: white;
+            font-size: 16px;
+            transition: all 0.3s ease;
+        }
+        .onMain:hover {
+            text-decoration: none;
+            background-color: #242424;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <button class="logo" onclick="window.location.href='index.html'">Aromae</button>
+        <ul>
+            <li><a href="index.html" class="nav-button">Каталог</a></li>
+            <li><a href="contact.html" class="nav-button">Контакти</a></li>
+            <li><a href="about.html" class="nav-button">Про нас</a></li>
+        </ul>
+        <div class="search-container">
+            <input type="text" id="search-input" placeholder="Пошук парфумів..." autocomplete="off">
+            <div id="search-suggestions" class="search-suggestions"></div>
+        </div>
+    </nav>
+    <div class="info">
+        <h1>404</h1>
+        <h2>Сторінку не знайдено</h2>
+        <button class="onMain" onclick="window.location.href='index.html'">На головну сторінку</button>
+    </div>
+    <script src="data.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

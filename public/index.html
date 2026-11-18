@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Aromae</title>
+  <link rel="preload" href="https://fonts.gstatic.com/s/rubik/v20/7Q1k8zSTPOxHqVuyGzJrTTk.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+  <link rel="preload" href="https://fonts.gstatic.com/s/lobster/v26/cJt9NVcduzQSO30gGq_1Rg.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;600;700&family=Lobster&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <nav>
+    <button class="logo" onclick="window.location.href='index.html'">Aromae</button>
+    <ul>
+      <li><a href="index.html" class="nav-button">Каталог</a></li>
+      <li><a href="contact.html" class="nav-button">Контакти</a></li>
+      <li><a href="about.html" class="nav-button">Про нас</a></li>
+    </ul>
+    <div class="auth-button-container" id="auth-button-container"></div>
+    <div class="search-container">
+      <input type="text" id="search-input" placeholder="Пошук парфумів..." autocomplete="off">
+      <div id="search-suggestions" class="search-suggestions"></div>
+    </div>
+  </nav>
+  <main>
+    <div class="content">
+        <aside class="filter-panel">
+        <h3 class="filter-title">Фільтри</h3>
+        <div class="filter-group">
+          <div class="filter-group-title">Стать<span class="toggle-icon"> ▼</span>
+          </div>
+          <div class="filter-content">
+            <label><input type="checkbox" name="gender" value="men"> Чоловічі</label>
+            <label><input type="checkbox" name="gender" value="women"> Жіночі</label>
+            <label><input type="checkbox" name="gender" value="unisex"> Унісекс</label>
+          </div>
+        </div>
+        <div class="filter-group">
+          <div class="filter-group-title">Бренд<span class="toggle-icon"> ▼</span>
+          </div>
+          <div class="filter-content">
+            <label><input type="checkbox" name="brand" value="Carolina Herrera"> Carolina Herrera</label>
+            <label><input type="checkbox" name="brand" value="Creed"> Creed</label>
+            <label><input type="checkbox" name="brand" value="Dior"> Dior</label>
+            <label><input type="checkbox" name="brand" value="Dsquared2"> Dsquared2</label>
+            <label><input type="checkbox" name="brand" value="Essential Parfums"> Essential Parfums</label>
+            <label><input type="checkbox" name="brand" value="Giorgio Armani"> Giorgio Armani</label>
+            <label><input type="checkbox" name="brand" value="Givenchy"> Givenchy</label>
+            <label><input type="checkbox" name="brand" value="Lancôme"> Lancôme</label>
+            <label><input type="checkbox" name="brand" value="Maison Francis Kurkdjian"> Maison Francis Kurkdjian</label>
+            <label><input type="checkbox" name="brand" value="Orto Parisi"> Orto Parisi</label>
+            <label><input type="checkbox" name="brand" value="Tom Ford"> Tom Ford</label>
+            <label><input type="checkbox" name="brand" value="Yves Saint Laurent"> Yves Saint Laurent</label>
+          </div>
+        </div>
+        <div class="filter-group">
+          <div class="filter-group-title">Тип парфуму<span class="toggle-icon"> ▼</span>
+          </div>
+          <div class="filter-content">
+            <label><input type="checkbox" name="type" value="Eau de Parfum"> Парфумована вода</label>
+            <label><input type="checkbox" name="type" value="Eau de Toilette"> Туалетна вода</label>
+            <label><input type="checkbox" name="type" value="Eau de Cologne"> Одеколон</label>
+            <label><input type="checkbox" name="type" value="Parfum"> Парфум</label>
+            <label><input type="checkbox" name="type" value="Extrait de Parfum"> Екстракт</label>
+          </div>
+        </div>
+        <div class="filter-group">
+          <div class="filter-group-title">Магазин<span class="toggle-icon"> ▼</span>
+          </div>
+          <div class="filter-content">
+            <label><input type="checkbox" name="site" value="notino"> Notino</label>
+            <label><input type="checkbox" name="site" value="brocard"> Brocard</label>
+          </div>
+        </div>
+        <div class="filter-group">
+          <div class="filter-group-title">Ціна<span class="toggle-icon"> ▼</span>
+          </div>
+          <div class="filter-content">
+            <div class="price-range">
+              <input type="number" id="price-min" placeholder="Мін. ціна" min="0">
+              <span>—</span>
+              <input type="number" id="price-max" placeholder="Макс. ціна" min="0">
+            </div>
+          </div>
+        </div>
+  </aside>
+      <section id="perfumeGrid" class="perfume-grid"></section>
+    </div>
+  </main>
+
+  <script src="data.js"></script>
+  <script>
+  async function checkAuth() {
+    const token = localStorage.getItem('authToken');
+    if (!token) return null;
+
+    try {
+      const response = await fetch('/user', {
+        headers: { 'Authorization': `Bearer ${token}` }
+      });
+      if (!response.ok) {
+        localStorage.removeItem('authToken');
+        return null;
+      }
+      return await response.json();
+    } catch (err) {
+      console.error('Помилка перевірки авторизації:', err);
+      localStorage.removeItem('authToken');
+      return null;
+    }
+  }
+
+  async function renderAuthButton() {
+    const container = document.getElementById('auth-button-container');
+    if (!container) return;
+
+    const user = await checkAuth();
+    container.innerHTML = '';
+
+    if (user) {
+      const button = document.createElement('button');
+      button.className = 'user-menu-button';
+      button.textContent = user.name;
+      const menu = document.createElement('div');
+      menu.className = 'user-menu';
+      menu.innerHTML = `
+        <p><strong>Email:</strong> ${user.email}</p>
+        <p><strong>Ім'я:</strong> ${user.name}</p>
+        <p><strong>Прізвище:</strong> ${user.surname}</p>
+        <button class="logout-button">Вийти з облікового запису</button>
+      `;
+      container.appendChild(button);
+      container.appendChild(menu);
+
+      button.addEventListener('click', () => {
+        menu.classList.toggle('active');
+      });
+
+      menu.querySelector('.logout-button').addEventListener('click', () => {
+        localStorage.removeItem('authToken');
+        window.location.reload();
+      });
+
+      document.addEventListener('click', (e) => {
+        if (!container.contains(e.target)) {
+          menu.classList.remove('active');
+        }
+      });
+    } else {
+      const button = document.createElement('button');
+      button.className = 'auth-button';
+      button.textContent = 'Зареєструватися';
+      button.addEventListener('click', () => {
+        window.location.href = `/auth?referer=${encodeURIComponent(window.location.pathname + window.location.search)}`;
+      });
+      container.appendChild(button);
+    }
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    renderAuthButton();
+  });
+
+  const allPerfumes = Object.entries(perfumes).map(([id, p]) => ({ id, ...p }));
+  allPerfumes.sort((a, b) => {
+    const brandCompare = a.brand.localeCompare(b.brand, 'uk');
+    return brandCompare !== 0 ? brandCompare : a.name.localeCompare(b.name, 'uk');
+  });
+
+  let priceData = {};
+  let aliasesData = {};
+
+  function loadPriceData() {
+    console.log('Завантаження даних...');
+    Promise.all([
+      fetch('data.json', { cache: 'no-store' })
+        .then(res => {
+          console.log('data.json response status:', res.status);
+          return res.ok ? res.json() : {};
+        })
+        .catch(err => {
+          console.error('Помилка завантаження data.json:', err);
+          return {};
+        }),
+      fetch('aliases.json', { cache: 'no-store' })
+        .then(res => {
+          console.log('aliases.json response status:', res.status);
+          return res.ok ? res.json() : {};
+        })
+        .catch(err => {
+          console.error('Помилка завантаження aliases.json:', err);
+          return {};
+        })
+    ])
+      .then(([jsonPrices, jsonAliases]) => {
+        priceData = jsonPrices;
+        aliasesData = jsonAliases;
+        console.log('Завантажено priceData keys:', Object.keys(priceData));
+        console.log('Завантажено aliasesData keys:', Object.keys(aliasesData));
+        renderPerfumes(allPerfumes);
+      })
+      .catch(err => {
+        console.error('Помилка обробки даних:', err);
+        renderPerfumes(allPerfumes);
+      });
+  }
+  loadPriceData();
+  setInterval(loadPriceData, 5 * 60 * 1000);
+
+  function normalizeId(id) {
+    if (!id) return '';
+    return id.toLowerCase().replace(/[^a-z0-9-]/g, '');
+  }
+
+  function findPriceData(specificId) {
+    if (!specificId) {
+      console.log('specificId не вказано');
+      return null;
+    }
+    const normalizedId = normalizeId(specificId);
+    const matches = Object.keys(priceData).filter(key => normalizeId(key) === normalizedId);
+    if (matches.length === 0) {
+      console.log(`Немає даних для ID ${specificId} (нормалізований: ${normalizedId})`);
+      return null;
+    }
+    console.log(`Знайдено дані для ${specificId}:`, priceData[matches[0]]);
+    return priceData[matches[0]];
+  }
+
+  function getMinPrice(perfumeId, selectedSites = []) {
+    console.log(`Отримання ціни для perfumeId: ${perfumeId}, selectedSites: ${selectedSites}`);
+    const normalizedPerfumeId = normalizeId(perfumeId);
+    const aliases = aliasesData[perfumeId] || aliasesData[normalizedPerfumeId] || [];
+    console.log(`Aliases для ${perfumeId}:`, aliases);
+
+    const validAliases = selectedSites.length > 0
+      ? aliases.filter(id => {
+          const site = id.split('-')[0];
+          return selectedSites.includes(site);
+        })
+      : aliases;
+    console.log(`Valid aliases після фільтрації:`, validAliases);
+
+    if (validAliases.length === 0) {
+      console.log(`Немає aliases для парфуму ${perfumeId} за вибраними сайтами`);
+      return null;
+    }
+
+    let minPrice = Infinity;
+    let hasValidVariations = false;
+
+    validAliases.forEach(specificId => {
+      const data = findPriceData(specificId);
+      if (!data) {
+        console.log(`Немає даних для ID ${specificId}`);
+        return;
+      }
+
+      const variations = data.variations || [];
+      console.log(`Варіації для ${specificId}:`, variations);
+      if (variations.length === 0) {
+        console.log(`Немає варіацій для ${specificId}`);
+        return;
+      }
+
+      variations.forEach(v => {
+        const priceStr = v.discountPrice || v.defaultPrice || v.price || '';
+        const cleanedPrice = priceStr.replace(/[^\d,\.]/g, '').replace(',', '.');
+        const price = parseFloat(cleanedPrice) || Infinity;
+        if (isNaN(price) || price === Infinity) {
+          console.warn(`Некоректна ціна для розміру ${v.size}: ${priceStr}`);
+        } else {
+          console.log(`Ціна для розміру ${v.size}: ${priceStr} → ${price}`);
+          hasValidVariations = true;
+          if (price < minPrice) minPrice = price;
+        }
+      });
+    });
+
+    const result = hasValidVariations ? minPrice : null;
+    console.log(`Мінімальна ціна для ${perfumeId}: ${result !== null ? result : 'немає'}`);
+    return result;
+  }
+
+  function hasValidVariations(perfumeId, selectedSites = []) {
+    const normalizedPerfumeId = normalizeId(perfumeId);
+    const aliases = aliasesData[perfumeId] || aliasesData[normalizedPerfumeId] || [];
+
+    const validAliases = selectedSites.length > 0
+      ? aliases.filter(id => {
+          const site = id.split('-')[0];
+          return selectedSites.includes(site);
+        })
+      : aliases;
+
+    if (validAliases.length === 0) {
+      return false;
+    }
+
+    return validAliases.some(specificId => {
+      const data = findPriceData(specificId);
+      if (!data) return false;
+
+      const variations = data.variations || [];
+      return variations.some(v => {
+        const priceStr = v.discountPrice || v.defaultPrice || v.price || '';
+        const cleanedPrice = priceStr.replace(/[^\d,\.]/g, '').replace(',', '.');
+        const price = parseFloat(cleanedPrice);
+        return !isNaN(price) && isFinite(price) && v.size;
+      });
+    });
+  }
+
+  function renderPerfumes(list) {
+    const grid = document.getElementById("perfumeGrid");
+    grid.innerHTML = "";
+    const selectedSites = Array.from(document.querySelectorAll('input[name="site"]:checked')).map(cb => cb.value);
+    console.log('Вибрані сайти:', selectedSites);
+
+    list.forEach(p => {
+      const minPrice = getMinPrice(p.id, selectedSites);
+      let caption = 'Немає в наявності';
+      let captionClass = 'unavailable';
+      if (minPrice !== null) {
+        caption = `Від ${minPrice.toLocaleString('uk-UA')} ₴`;
+        captionClass = 'available';
+      }
+
+      const card = document.createElement("a");
+      card.href = `perfume.html?id=${p.id}`;
+      card.className = "perfume-card";
+
+      const imgSrc = Array.isArray(p.image) ? p.image[0] : p.image;
+      card.innerHTML = `
+        <img src="${imgSrc}" alt="${p.name}">
+        <span class="perfume-name">${p.name}</span>
+        <span class="perfume-caption ${captionClass}">${caption}</span>
+      `;
+      grid.appendChild(card);
+    });
+  }
+
+  function toggleFilterGroup(event) {
+  const title = event.currentTarget;
+  const content = title.nextElementSibling; 
+  const icon = title.querySelector('.toggle-icon');
+
+  content.classList.toggle('collapsed');
+  icon.classList.toggle('collapsed');
+  }
+
+
+  function getSelectedFilters() {
+    const selG = Array.from(document.querySelectorAll('input[name="gender"]:checked')).map(cb => cb.value);
+    const selB = Array.from(document.querySelectorAll('input[name="brand"]:checked')).map(cb => cb.value);
+    const selT = Array.from(document.querySelectorAll('input[name="type"]:checked')).map(cb => cb.value);
+    const selS = Array.from(document.querySelectorAll('input[name="site"]:checked')).map(cb => cb.value);
+    const priceMin = parseFloat(document.getElementById("price-min").value) || 0;
+    const priceMax = parseFloat(document.getElementById("price-max").value) || Infinity;
+    return { selG, selB, selT, selS, priceMin, priceMax };
+  }
+
+  function filterPerfumes() {
+    const { selG, selB, selT, selS, priceMin, priceMax } = getSelectedFilters();
+    const q = document.getElementById("search-input").value.trim().toLowerCase();
+
+    const filtered = allPerfumes.filter(p => {
+      const genderMatch = selG.length === 0 || selG.some(g => {
+        if (g === "unisex") return p.gender === "For Women and Men";
+        if (g === "men") return p.gender === "For Men";
+        if (g === "women") return p.gender === "For Women";
+        return false;
+      });
+
+      const brandMatch = selB.length === 0 || selB.includes(p.brand);
+
+      const typeMatch = selT.length === 0 || selT.includes(p.type);
+
+      const nameMatch = p.name.toLowerCase().includes(q);
+
+      const minPrice = getMinPrice(p.id, selS);
+      const priceMatch = minPrice === null || (minPrice >= priceMin && minPrice <= priceMax);
+
+      const siteMatch = selS.length === 0 || hasValidVariations(p.id, selS);
+
+      return genderMatch && brandMatch && typeMatch && nameMatch && priceMatch && siteMatch;
+    });
+
+    renderPerfumes(filtered);
+  }
+
+  document.addEventListener("DOMContentLoaded", () => {
+    renderAuthButton();
+    loadPriceData();
+
+    document.querySelectorAll('input[name="gender"], input[name="brand"], input[name="type"], input[name="site"]').forEach(cb =>
+      cb.addEventListener("change", filterPerfumes)
+    );
+
+    document.getElementById("search-input").addEventListener("input", filterPerfumes);
+
+    document.getElementById("price-min").addEventListener("input", filterPerfumes);
+    document.getElementById("price-max").addEventListener("input", filterPerfumes);
+
+    document.querySelectorAll('.filter-group-title').forEach(title => {
+      title.addEventListener('click', toggleFilterGroup);
+    });
+  });
+  </script>
+</body>
+</html>

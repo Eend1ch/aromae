@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Aromae - Контакти</title>
+  <link rel="preload" href="https://fonts.gstatic.com/s/rubik/v20/7Q1k8zSTPOxHqVuyGzJrTTk.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+  <link rel="preload" href="https://fonts.gstatic.com/s/lobster/v26/cJt9NVcduzQSO30gGq_1Rg.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;600;700&family=Lobster&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <nav>
+    <button class="logo" onclick="window.location.href='index.html'">Aromae</button>
+    <ul>
+      <li><a href="index.html" class="nav-button">Каталог</a></li>
+      <li><a href="contact.html" class="nav-button">Контакти</a></li>
+      <li><a href="about.html" class="nav-button">Про нас</a></li>
+    </ul>
+    <div class="auth-button-container" id="auth-button-container"></div>
+    <div class="search-container">
+      <input type="text" id="search-input" placeholder="Пошук парфумів..." autocomplete="off">
+      <div id="search-suggestions" class="search-suggestions"></div>
+    </div>
+  </nav>
+  <main>
+    <div class="container-contact">
+      <section class="contact-info">
+        <h3>Зв'яжіться з нами</h3>
+        <p>Ми завжди готові відповісти на ваші запитання та допомогти з вибором парфумів!</p>
+        <ul class="contact-list">
+          <li><strong>Телефон:</strong> +380 (XX) XXX-XX-XX</li>
+          <li><strong>Email:</strong> XXXXXXXXXXXXX@gmail.com</li>
+        </ul>
+      </section>
+      <section class="contact-form">
+        <h3>Надіслати повідомлення</h3>
+        <form id="contactForm">
+          <div class="form-group">
+            <label for="name">Ім'я</label>
+            <input type="text" id="name" name="name" required>
+          </div>
+          <div class="form-group">
+            <label for="email">Email</label>
+            <input type="email" id="email" name="email" required>
+          </div>
+          <div class="form-group">
+            <label for="message">Повідомлення</label>
+            <textarea id="message" name="message" rows="5" required></textarea>
+          </div>
+          <button type="submit" class="apply-btn">Надіслати</button>
+        </form>
+        <div id="responseMessage" class="response-message" style="display: none; margin-top: 15px; font-size: 14px; color: #333;"></div>
+      </section>
+    </div>
+    </div>
+  </main>
+  <script src="data.js"></script>
+  <script src="script.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      if (typeof renderAuthButton === 'function') {
+        renderAuthButton();
+      }
+
+      const form = document.getElementById('contactForm');
+      const responseMessage = document.getElementById('responseMessage');
+
+      if (form) {
+        form.addEventListener('submit', async (e) => {
+          e.preventDefault();
+
+          const name = form.name.value.trim();
+          const email = form.email.value.trim();
+          const message = form.message.value.trim();
+
+          if (!name || !email || !message) {
+            responseMessage.textContent = 'Будь ласка, заповніть усі поля.';
+            responseMessage.style.color = '#e74c3c';
+            responseMessage.style.display = 'block';
+            return;
+          }
+
+          try {
+            const response = await fetch('/api/send-email', {
+              method: 'POST',
+              headers: {
+                'Content-Type': 'application/json',
+              },
+              body: JSON.stringify({ name, email, message }),
+            });
+
+            const result = await response.json();
+            if (response.ok) {
+              responseMessage.textContent = 'Повідомлення успішно збережено!';
+              responseMessage.style.color = '#2ecc71';
+              form.reset();
+            } else {
+              responseMessage.textContent = `Помилка: ${result.error}`;
+              responseMessage.style.color = '#e74c3c';
+            }
+          } catch (error) {
+            responseMessage.textContent = 'Помилка при відправці. Спробуйте ще раз.';
+            responseMessage.style.color = '#e74c3c';
+          }
+
+          responseMessage.style.display = 'block';
+          setTimeout(() => {
+            responseMessage.style.display = 'none';
+          }, 5000);
+        });
+      }
+    });
+  </script>
+</body>
+</html>

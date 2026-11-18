@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title></title>
+  <link rel="preload" href="https://fonts.gstatic.com/s/rubik/v20/7Q1k8zSTPOxHqVuyGzJrTTk.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+  <link rel="preload" href="https://fonts.gstatic.com/s/lobster/v26/cJt9NVcduzQSO30gGq_1Rg.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;600;700&family=Lobster&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <nav>
+    <button class="logo" onclick="window.location.href='index.html'">Aromae</button>
+    <ul>
+      <li><a href="index.html" class="nav-button">Каталог</a></li>
+      <li><a href="contact.html" class="nav-button">Контакти</a></li>
+      <li><a href="about.html" class="nav-button">Про нас</a></li>
+    </ul>
+    <div class="auth-button-container" id="auth-button-container"></div>
+    <div class="search-container">
+      <input type="text" id="search-input" placeholder="Пошук парфумів..." autocomplete="off">
+      <div id="search-suggestions" class="search-suggestions"></div>
+    </div>
+  </nav>
+  <div class="container">
+    <section class="product">
+      <div class="product-image">
+        <img id="perfume-image" src="" alt="">
+        <div class="thumbnail-slider">
+          <button class="slider-arrow left" id="slider-left" disabled></button>
+          <div class="thumbnail-container" id="thumbnail-container"></div>
+          <button class="slider-arrow right" id="slider-right"></button>
+        </div>
+        <div class="additional-images" id="additionalImages"></div>
+        <div id="site-buttons" class="site-button-group"></div>
+        <div id="size-buttons" class="size-button-group"></div>
+        <div id="unpacked-message"></div>
+        <div id="price-info" class="product-price"></div>
+      </div>
+      <div class="product-info"></div>
+      <div class="extra-info" id="perfume-extra-info"></div>
+    </section>
+    <div class="notes"></div>
+    <div class="gallery" id="perfume-gallery"></div>
+    <section class="related" id="perfume-related">
+      <div class="horizontal-scroll-container" id="related-perfumes">
+      </div>
+    </section>
+    <div class="shops" id="perfume-shops"></div>
+    <div id="perfume-comments"></div>
+    <div id="recently-viewed"></div>
+    <section id="recently-viewed">
+      <h3>Нещодавно переглянуті</h3>
+      <div class="recently-viewed-grid"></div>
+    </section>
+    <section id="perfume-comments">
+      <h3>Коментарі</h3>
+      <div id="comments-list"></div>
+      <div id="comment-form-container"></div>
+    </section>
+  </div>
+
+  <script src="data.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
