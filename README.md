@@ -1,9 +1,9 @@
 # Aromae 🌸
 
 A perfume catalog website with filters, search, perfume pages, ratings and comments.
-Built as a personal project in **2025**.
+Built as a personal project in **April – May 2025**.
 
-> **Status: archived "as it was" in 2025.**
+> **Status: archived exactly "as it was" in 2025.**
 > The project is half-working, the architecture is rough, and I'm leaving it that way on purpose.
 > A step-by-step refactor is planned and will land as separate commits, so the history shows the before and after.
 
@@ -19,14 +19,17 @@ Built as a personal project in **2025**.
 ![Megamare](screenshots/megamare.jpg)
 ## Features
 
-- **Catalog** of perfumes with product cards
-- **Filters** by gender, brand and perfume type (EDP, EDT, cologne, parfum, extrait) and by store
+- **Catalog** of perfumes with product cards, prices and availability
+- **Filters** by gender, brand, perfume type (EDP, EDT, cologne, parfum, extrait), store and price range
 - **Search** by perfume name
-- **Perfume page** with details and links to stores (Brocard, Notino)
+- **Perfume page:** brand, line, year, concentration, scent group, longevity, description
+- **Volume selector** (30 / 50 / 100 ml) with price per size and store links (Brocard, Notino and others)
+- **"Suitable for"** ratings by season and time of day
+- **Notes pyramid** (top / middle / base) with ingredient images
+- **Photo gallery** and "Other fragrances from this brand"
 - **"Recently viewed"** block
 - **Registration / login**
 - **Comments with star ratings** for logged-in users
-- **Contact form** (sends mail via `nodemailer`)
 - **Python scraper** for collecting perfume data and images
 
 ## Tech stack
