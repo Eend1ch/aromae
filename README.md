@@ -11,12 +11,12 @@ Built as a personal project in **2025**.
 ### Catalog
 ![Catalog](screenshots/catalog.jpg)
 
-### Perfume page
-![Perfume page](screenshots/product-page.jpg)
+### Stronger with You Intensely page
+Stronger With You(screenshots/swy.jpg)
 
-### Notes and gallery
-![Tobacco Vanille](screenshots/notes-tobacco-vanille.jpg)
-![Megamare](screenshots/notes-megamare.jpg)
+### Other perfume examples
+![Tobacco Vanille](screenshots/perfume-page.jpg)
+![Megamare](screenshots/megamare.jpg)
 ## Features
 
 - **Catalog** of perfumes with product cards
