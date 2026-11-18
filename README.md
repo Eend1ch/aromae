@@ -12,7 +12,7 @@ Built as a personal project in **2025**.
 ![Catalog](screenshots/catalog.jpg)
 
 ### Stronger with You Intensely page
-Stronger With You(screenshots/swy.jpg)
+![Stronger With You](screenshots/swy.jpg)
 
 ### Other perfume examples
 ![Tobacco Vanille](screenshots/perfume-page.jpg)
